@@ -1,0 +1,5316 @@
+ticket_id,producto,precio
+1,Té verde,2.8
+1,Capuchino,3.2
+1,Croissant,2.2
+2,Sándwich,4.5
+2,Café con leche,3.0
+3,Café con leche,3.0
+3,Té verde,2.8
+3,Sándwich,4.5
+4,Té verde,2.8
+5,Tarta de queso,3.5
+5,Té verde,2.8
+6,Café americano,2.5
+6,Capuchino,3.2
+7,Capuchino,3.2
+7,Té verde,2.8
+8,Café con leche,3.0
+9,Croissant,2.2
+10,Ensalada,5.0
+11,Tarta de queso,3.5
+11,Café con leche,3.0
+11,Smoothie,4.0
+12,Croissant,2.2
+12,Té verde,2.8
+13,Té verde,2.8
+13,Smoothie,4.0
+13,Café americano,2.5
+14,Tarta de queso,3.5
+14,Smoothie,4.0
+14,Té verde,2.8
+15,Croissant,2.2
+16,Café con leche,3.0
+16,Capuchino,3.2
+17,Ensalada,5.0
+18,Sándwich,4.5
+18,Té verde,2.8
+18,Croissant,2.2
+19,Café americano,2.5
+19,Té verde,2.8
+19,Tarta de queso,3.5
+20,Smoothie,4.0
+20,Café con leche,3.0
+20,Ensalada,5.0
+21,Croissant,2.2
+21,Té verde,2.8
+22,Ensalada,5.0
+23,Sándwich,4.5
+23,Smoothie,4.0
+24,Tarta de queso,3.5
+24,Croissant,2.2
+24,Café con leche,3.0
+25,Ensalada,5.0
+25,Café con leche,3.0
+25,Tarta de queso,3.5
+26,Capuchino,3.2
+27,Café con leche,3.0
+27,Tarta de queso,3.5
+28,Sándwich,4.5
+28,Smoothie,4.0
+29,Café americano,2.5
+30,Sándwich,4.5
+30,Smoothie,4.0
+31,Smoothie,4.0
+31,Tarta de queso,3.5
+31,Café con leche,3.0
+32,Smoothie,4.0
+32,Capuchino,3.2
+33,Smoothie,4.0
+33,Té verde,2.8
+34,Sándwich,4.5
+34,Café americano,2.5
+35,Café con leche,3.0
+36,Smoothie,4.0
+36,Té verde,2.8
+37,Café con leche,3.0
+38,Café con leche,3.0
+39,Capuchino,3.2
+39,Sándwich,4.5
+39,Croissant,2.2
+40,Smoothie,4.0
+40,Tarta de queso,3.5
+40,Café con leche,3.0
+41,Té verde,2.8
+42,Croissant,2.2
+43,Café con leche,3.0
+43,Té verde,2.8
+44,Sándwich,4.5
+45,Café con leche,3.0
+46,Café con leche,3.0
+46,Café americano,2.5
+47,Té verde,2.8
+47,Smoothie,4.0
+48,Capuchino,3.2
+48,Ensalada,5.0
+49,Tarta de queso,3.5
+50,Tarta de queso,3.5
+51,Café americano,2.5
+51,Café con leche,3.0
+51,Sándwich,4.5
+52,Café con leche,3.0
+53,Ensalada,5.0
+53,Capuchino,3.2
+54,Té verde,2.8
+55,Sándwich,4.5
+55,Café con leche,3.0
+56,Café americano,2.5
+57,Té verde,2.8
+58,Té verde,2.8
+58,Tarta de queso,3.5
+59,Café americano,2.5
+60,Ensalada,5.0
+60,Smoothie,4.0
+61,Sándwich,4.5
+62,Té verde,2.8
+63,Sándwich,4.5
+63,Café americano,2.5
+63,Croissant,2.2
+64,Ensalada,5.0
+65,Capuchino,3.2
+66,Capuchino,3.2
+66,Café con leche,3.0
+66,Smoothie,4.0
+67,Tarta de queso,3.5
+68,Té verde,2.8
+69,Café con leche,3.0
+69,Tarta de queso,3.5
+69,Croissant,2.2
+70,Smoothie,4.0
+70,Té verde,2.8
+71,Smoothie,4.0
+71,Tarta de queso,3.5
+71,Café con leche,3.0
+72,Croissant,2.2
+72,Café con leche,3.0
+73,Café con leche,3.0
+74,Smoothie,4.0
+75,Café con leche,3.0
+75,Té verde,2.8
+75,Capuchino,3.2
+76,Sándwich,4.5
+77,Sándwich,4.5
+77,Café americano,2.5
+77,Croissant,2.2
+78,Café con leche,3.0
+79,Café con leche,3.0
+79,Sándwich,4.5
+80,Smoothie,4.0
+80,Té verde,2.8
+81,Smoothie,4.0
+81,Ensalada,5.0
+82,Café americano,2.5
+82,Café con leche,3.0
+83,Café americano,2.5
+83,Sándwich,4.5
+84,Smoothie,4.0
+85,Tarta de queso,3.5
+86,Capuchino,3.2
+86,Café americano,2.5
+86,Tarta de queso,3.5
+87,Tarta de queso,3.5
+88,Café americano,2.5
+88,Croissant,2.2
+88,Café con leche,3.0
+89,Croissant,2.2
+89,Tarta de queso,3.5
+90,Té verde,2.8
+91,Capuchino,3.2
+92,Croissant,2.2
+93,Té verde,2.8
+93,Smoothie,4.0
+94,Tarta de queso,3.5
+94,Café americano,2.5
+95,Ensalada,5.0
+95,Croissant,2.2
+96,Té verde,2.8
+96,Sándwich,4.5
+96,Café americano,2.5
+97,Smoothie,4.0
+97,Café con leche,3.0
+98,Sándwich,4.5
+99,Sándwich,4.5
+99,Croissant,2.2
+99,Café americano,2.5
+100,Capuchino,3.2
+101,Café americano,2.5
+102,Croissant,2.2
+103,Café con leche,3.0
+104,Smoothie,4.0
+105,Sándwich,4.5
+106,Té verde,2.8
+106,Croissant,2.2
+106,Sándwich,4.5
+107,Croissant,2.2
+108,Café con leche,3.0
+109,Smoothie,4.0
+110,Smoothie,4.0
+110,Capuchino,3.2
+111,Tarta de queso,3.5
+112,Smoothie,4.0
+113,Smoothie,4.0
+113,Sándwich,4.5
+114,Croissant,2.2
+114,Ensalada,5.0
+115,Sándwich,4.5
+115,Ensalada,5.0
+116,Capuchino,3.2
+117,Croissant,2.2
+117,Café con leche,3.0
+118,Smoothie,4.0
+119,Café americano,2.5
+120,Café con leche,3.0
+120,Ensalada,5.0
+120,Té verde,2.8
+121,Tarta de queso,3.5
+121,Ensalada,5.0
+121,Té verde,2.8
+122,Café americano,2.5
+122,Café con leche,3.0
+123,Sándwich,4.5
+124,Café con leche,3.0
+124,Ensalada,5.0
+124,Sándwich,4.5
+125,Sándwich,4.5
+126,Ensalada,5.0
+126,Tarta de queso,3.5
+127,Capuchino,3.2
+128,Smoothie,4.0
+128,Té verde,2.8
+129,Sándwich,4.5
+130,Ensalada,5.0
+131,Smoothie,4.0
+131,Croissant,2.2
+132,Capuchino,3.2
+132,Sándwich,4.5
+133,Té verde,2.8
+134,Sándwich,4.5
+135,Tarta de queso,3.5
+135,Sándwich,4.5
+135,Ensalada,5.0
+136,Tarta de queso,3.5
+136,Ensalada,5.0
+137,Tarta de queso,3.5
+137,Sándwich,4.5
+137,Smoothie,4.0
+138,Té verde,2.8
+139,Ensalada,5.0
+140,Tarta de queso,3.5
+140,Capuchino,3.2
+141,Sándwich,4.5
+142,Café americano,2.5
+142,Café con leche,3.0
+142,Croissant,2.2
+143,Capuchino,3.2
+143,Café americano,2.5
+143,Sándwich,4.5
+144,Croissant,2.2
+145,Smoothie,4.0
+146,Smoothie,4.0
+147,Sándwich,4.5
+147,Café americano,2.5
+148,Café con leche,3.0
+148,Café americano,2.5
+148,Tarta de queso,3.5
+149,Café americano,2.5
+149,Capuchino,3.2
+149,Café con leche,3.0
+150,Té verde,2.8
+150,Ensalada,5.0
+151,Capuchino,3.2
+152,Café con leche,3.0
+152,Capuchino,3.2
+153,Café americano,2.5
+153,Smoothie,4.0
+153,Ensalada,5.0
+154,Tarta de queso,3.5
+154,Té verde,2.8
+155,Té verde,2.8
+155,Café con leche,3.0
+155,Croissant,2.2
+156,Café con leche,3.0
+157,Café americano,2.5
+158,Croissant,2.2
+159,Café americano,2.5
+159,Tarta de queso,3.5
+160,Croissant,2.2
+160,Ensalada,5.0
+161,Sándwich,4.5
+161,Smoothie,4.0
+162,Ensalada,5.0
+162,Sándwich,4.5
+162,Té verde,2.8
+163,Croissant,2.2
+163,Té verde,2.8
+163,Tarta de queso,3.5
+164,Ensalada,5.0
+164,Té verde,2.8
+164,Tarta de queso,3.5
+165,Tarta de queso,3.5
+165,Croissant,2.2
+165,Café americano,2.5
+166,Croissant,2.2
+166,Smoothie,4.0
+166,Capuchino,3.2
+167,Smoothie,4.0
+167,Café americano,2.5
+168,Té verde,2.8
+169,Té verde,2.8
+169,Ensalada,5.0
+169,Croissant,2.2
+170,Café americano,2.5
+171,Té verde,2.8
+172,Ensalada,5.0
+172,Croissant,2.2
+172,Té verde,2.8
+173,Croissant,2.2
+173,Ensalada,5.0
+173,Capuchino,3.2
+174,Té verde,2.8
+174,Croissant,2.2
+175,Capuchino,3.2
+176,Smoothie,4.0
+177,Sándwich,4.5
+177,Smoothie,4.0
+178,Smoothie,4.0
+178,Té verde,2.8
+178,Capuchino,3.2
+179,Sándwich,4.5
+179,Capuchino,3.2
+180,Sándwich,4.5
+180,Smoothie,4.0
+181,Ensalada,5.0
+181,Café con leche,3.0
+181,Tarta de queso,3.5
+182,Ensalada,5.0
+182,Sándwich,4.5
+183,Smoothie,4.0
+184,Café con leche,3.0
+184,Tarta de queso,3.5
+185,Café americano,2.5
+186,Smoothie,4.0
+186,Café con leche,3.0
+187,Tarta de queso,3.5
+188,Té verde,2.8
+188,Tarta de queso,3.5
+188,Sándwich,4.5
+189,Tarta de queso,3.5
+190,Café con leche,3.0
+190,Té verde,2.8
+191,Café con leche,3.0
+191,Capuchino,3.2
+191,Sándwich,4.5
+192,Café americano,2.5
+192,Tarta de queso,3.5
+193,Smoothie,4.0
+193,Café americano,2.5
+194,Ensalada,5.0
+195,Smoothie,4.0
+196,Té verde,2.8
+196,Tarta de queso,3.5
+197,Capuchino,3.2
+198,Café con leche,3.0
+199,Smoothie,4.0
+199,Ensalada,5.0
+199,Café americano,2.5
+200,Tarta de queso,3.5
+200,Smoothie,4.0
+201,Café con leche,3.0
+201,Café americano,2.5
+201,Té verde,2.8
+202,Café americano,2.5
+202,Café con leche,3.0
+203,Café americano,2.5
+204,Smoothie,4.0
+204,Café americano,2.5
+205,Sándwich,4.5
+206,Capuchino,3.2
+206,Tarta de queso,3.5
+206,Croissant,2.2
+207,Ensalada,5.0
+208,Café con leche,3.0
+209,Ensalada,5.0
+209,Smoothie,4.0
+210,Sándwich,4.5
+210,Café americano,2.5
+210,Té verde,2.8
+211,Café con leche,3.0
+211,Tarta de queso,3.5
+211,Ensalada,5.0
+212,Sándwich,4.5
+212,Ensalada,5.0
+213,Croissant,2.2
+213,Ensalada,5.0
+213,Sándwich,4.5
+214,Smoothie,4.0
+215,Ensalada,5.0
+215,Sándwich,4.5
+215,Café americano,2.5
+216,Té verde,2.8
+216,Capuchino,3.2
+216,Ensalada,5.0
+217,Café con leche,3.0
+217,Té verde,2.8
+218,Ensalada,5.0
+219,Capuchino,3.2
+219,Ensalada,5.0
+219,Croissant,2.2
+220,Tarta de queso,3.5
+220,Ensalada,5.0
+221,Sándwich,4.5
+221,Capuchino,3.2
+222,Sándwich,4.5
+222,Capuchino,3.2
+222,Tarta de queso,3.5
+223,Tarta de queso,3.5
+223,Croissant,2.2
+223,Sándwich,4.5
+224,Smoothie,4.0
+225,Ensalada,5.0
+226,Ensalada,5.0
+226,Croissant,2.2
+227,Tarta de queso,3.5
+227,Ensalada,5.0
+227,Capuchino,3.2
+228,Té verde,2.8
+228,Tarta de queso,3.5
+228,Café con leche,3.0
+229,Croissant,2.2
+229,Ensalada,5.0
+229,Sándwich,4.5
+230,Capuchino,3.2
+231,Sándwich,4.5
+232,Café con leche,3.0
+232,Ensalada,5.0
+233,Café americano,2.5
+233,Capuchino,3.2
+233,Té verde,2.8
+234,Café con leche,3.0
+234,Ensalada,5.0
+234,Tarta de queso,3.5
+235,Tarta de queso,3.5
+236,Sándwich,4.5
+236,Tarta de queso,3.5
+237,Ensalada,5.0
+237,Café americano,2.5
+237,Smoothie,4.0
+238,Smoothie,4.0
+238,Té verde,2.8
+239,Café con leche,3.0
+239,Sándwich,4.5
+239,Té verde,2.8
+240,Café americano,2.5
+240,Sándwich,4.5
+241,Croissant,2.2
+241,Sándwich,4.5
+241,Té verde,2.8
+242,Capuchino,3.2
+242,Sándwich,4.5
+242,Café con leche,3.0
+243,Té verde,2.8
+243,Ensalada,5.0
+243,Smoothie,4.0
+244,Smoothie,4.0
+244,Ensalada,5.0
+245,Ensalada,5.0
+246,Capuchino,3.2
+246,Café con leche,3.0
+247,Smoothie,4.0
+247,Tarta de queso,3.5
+247,Croissant,2.2
+248,Té verde,2.8
+249,Café con leche,3.0
+250,Smoothie,4.0
+250,Sándwich,4.5
+251,Tarta de queso,3.5
+252,Café americano,2.5
+252,Ensalada,5.0
+252,Tarta de queso,3.5
+253,Té verde,2.8
+253,Croissant,2.2
+254,Smoothie,4.0
+255,Capuchino,3.2
+255,Café con leche,3.0
+255,Croissant,2.2
+256,Ensalada,5.0
+256,Café americano,2.5
+257,Café con leche,3.0
+258,Tarta de queso,3.5
+258,Capuchino,3.2
+259,Croissant,2.2
+259,Smoothie,4.0
+259,Tarta de queso,3.5
+260,Ensalada,5.0
+260,Smoothie,4.0
+260,Croissant,2.2
+261,Ensalada,5.0
+261,Café con leche,3.0
+262,Tarta de queso,3.5
+262,Croissant,2.2
+263,Smoothie,4.0
+263,Café con leche,3.0
+263,Té verde,2.8
+264,Smoothie,4.0
+265,Croissant,2.2
+265,Café con leche,3.0
+266,Sándwich,4.5
+267,Café con leche,3.0
+267,Ensalada,5.0
+267,Croissant,2.2
+268,Capuchino,3.2
+269,Ensalada,5.0
+269,Café con leche,3.0
+269,Café americano,2.5
+270,Tarta de queso,3.5
+270,Ensalada,5.0
+271,Sándwich,4.5
+271,Tarta de queso,3.5
+271,Smoothie,4.0
+272,Tarta de queso,3.5
+273,Tarta de queso,3.5
+273,Smoothie,4.0
+274,Ensalada,5.0
+274,Sándwich,4.5
+274,Café con leche,3.0
+275,Croissant,2.2
+276,Tarta de queso,3.5
+276,Smoothie,4.0
+276,Café con leche,3.0
+277,Ensalada,5.0
+277,Café con leche,3.0
+277,Croissant,2.2
+278,Café americano,2.5
+278,Sándwich,4.5
+279,Capuchino,3.2
+280,Sándwich,4.5
+280,Té verde,2.8
+280,Smoothie,4.0
+281,Croissant,2.2
+282,Café americano,2.5
+283,Capuchino,3.2
+283,Smoothie,4.0
+284,Café americano,2.5
+284,Capuchino,3.2
+285,Té verde,2.8
+285,Croissant,2.2
+285,Café americano,2.5
+286,Tarta de queso,3.5
+287,Ensalada,5.0
+287,Sándwich,4.5
+287,Tarta de queso,3.5
+288,Ensalada,5.0
+289,Café americano,2.5
+289,Smoothie,4.0
+289,Té verde,2.8
+290,Ensalada,5.0
+290,Tarta de queso,3.5
+291,Ensalada,5.0
+292,Capuchino,3.2
+292,Café con leche,3.0
+292,Ensalada,5.0
+293,Sándwich,4.5
+293,Croissant,2.2
+293,Té verde,2.8
+294,Ensalada,5.0
+295,Café con leche,3.0
+295,Té verde,2.8
+295,Ensalada,5.0
+296,Croissant,2.2
+297,Café con leche,3.0
+298,Smoothie,4.0
+298,Croissant,2.2
+299,Ensalada,5.0
+299,Café con leche,3.0
+299,Café americano,2.5
+300,Café con leche,3.0
+301,Capuchino,3.2
+301,Café americano,2.5
+301,Smoothie,4.0
+302,Café con leche,3.0
+303,Tarta de queso,3.5
+303,Café americano,2.5
+303,Capuchino,3.2
+304,Sándwich,4.5
+304,Té verde,2.8
+304,Café con leche,3.0
+305,Café con leche,3.0
+306,Café con leche,3.0
+306,Smoothie,4.0
+306,Ensalada,5.0
+307,Sándwich,4.5
+307,Café americano,2.5
+308,Smoothie,4.0
+309,Smoothie,4.0
+309,Croissant,2.2
+310,Capuchino,3.2
+311,Capuchino,3.2
+312,Café con leche,3.0
+313,Tarta de queso,3.5
+313,Ensalada,5.0
+314,Croissant,2.2
+314,Café con leche,3.0
+314,Café americano,2.5
+315,Café americano,2.5
+315,Café con leche,3.0
+316,Ensalada,5.0
+316,Sándwich,4.5
+317,Sándwich,4.5
+318,Smoothie,4.0
+319,Sándwich,4.5
+319,Smoothie,4.0
+319,Café americano,2.5
+320,Café americano,2.5
+320,Sándwich,4.5
+321,Capuchino,3.2
+321,Smoothie,4.0
+321,Sándwich,4.5
+322,Tarta de queso,3.5
+322,Capuchino,3.2
+323,Té verde,2.8
+324,Croissant,2.2
+324,Café con leche,3.0
+325,Tarta de queso,3.5
+325,Café americano,2.5
+325,Té verde,2.8
+326,Tarta de queso,3.5
+326,Sándwich,4.5
+326,Croissant,2.2
+327,Tarta de queso,3.5
+327,Café americano,2.5
+327,Capuchino,3.2
+328,Ensalada,5.0
+328,Croissant,2.2
+329,Té verde,2.8
+330,Café con leche,3.0
+330,Tarta de queso,3.5
+331,Té verde,2.8
+332,Sándwich,4.5
+333,Té verde,2.8
+334,Capuchino,3.2
+335,Té verde,2.8
+336,Café con leche,3.0
+336,Capuchino,3.2
+337,Ensalada,5.0
+338,Ensalada,5.0
+338,Croissant,2.2
+339,Capuchino,3.2
+339,Ensalada,5.0
+339,Café americano,2.5
+340,Smoothie,4.0
+341,Café con leche,3.0
+342,Café americano,2.5
+342,Croissant,2.2
+342,Tarta de queso,3.5
+343,Café con leche,3.0
+343,Tarta de queso,3.5
+343,Té verde,2.8
+344,Café americano,2.5
+345,Té verde,2.8
+345,Croissant,2.2
+346,Ensalada,5.0
+347,Croissant,2.2
+348,Capuchino,3.2
+349,Ensalada,5.0
+349,Capuchino,3.2
+350,Tarta de queso,3.5
+350,Sándwich,4.5
+351,Café americano,2.5
+351,Croissant,2.2
+352,Tarta de queso,3.5
+352,Smoothie,4.0
+352,Capuchino,3.2
+353,Capuchino,3.2
+353,Croissant,2.2
+353,Café americano,2.5
+354,Croissant,2.2
+354,Smoothie,4.0
+355,Tarta de queso,3.5
+355,Capuchino,3.2
+356,Smoothie,4.0
+356,Tarta de queso,3.5
+356,Croissant,2.2
+357,Sándwich,4.5
+357,Café con leche,3.0
+357,Croissant,2.2
+358,Café americano,2.5
+358,Croissant,2.2
+359,Croissant,2.2
+360,Té verde,2.8
+360,Capuchino,3.2
+361,Café con leche,3.0
+361,Café americano,2.5
+361,Croissant,2.2
+362,Capuchino,3.2
+362,Tarta de queso,3.5
+362,Café con leche,3.0
+363,Capuchino,3.2
+363,Ensalada,5.0
+363,Café americano,2.5
+364,Té verde,2.8
+364,Ensalada,5.0
+364,Smoothie,4.0
+365,Ensalada,5.0
+366,Ensalada,5.0
+366,Té verde,2.8
+367,Ensalada,5.0
+367,Sándwich,4.5
+368,Sándwich,4.5
+369,Té verde,2.8
+369,Capuchino,3.2
+370,Ensalada,5.0
+370,Croissant,2.2
+371,Sándwich,4.5
+372,Capuchino,3.2
+372,Smoothie,4.0
+373,Tarta de queso,3.5
+374,Ensalada,5.0
+375,Tarta de queso,3.5
+375,Café americano,2.5
+375,Té verde,2.8
+376,Café con leche,3.0
+377,Café con leche,3.0
+378,Capuchino,3.2
+379,Ensalada,5.0
+379,Capuchino,3.2
+380,Café americano,2.5
+380,Café con leche,3.0
+381,Capuchino,3.2
+381,Tarta de queso,3.5
+381,Café americano,2.5
+382,Café con leche,3.0
+382,Café americano,2.5
+383,Ensalada,5.0
+383,Café con leche,3.0
+383,Café americano,2.5
+384,Sándwich,4.5
+384,Café americano,2.5
+384,Croissant,2.2
+385,Capuchino,3.2
+386,Croissant,2.2
+387,Café con leche,3.0
+388,Sándwich,4.5
+388,Café americano,2.5
+389,Tarta de queso,3.5
+389,Croissant,2.2
+390,Café con leche,3.0
+391,Café con leche,3.0
+391,Croissant,2.2
+392,Croissant,2.2
+392,Capuchino,3.2
+393,Ensalada,5.0
+394,Café con leche,3.0
+394,Ensalada,5.0
+395,Té verde,2.8
+395,Café americano,2.5
+395,Capuchino,3.2
+396,Sándwich,4.5
+396,Ensalada,5.0
+397,Té verde,2.8
+398,Café americano,2.5
+399,Café con leche,3.0
+400,Tarta de queso,3.5
+400,Ensalada,5.0
+401,Capuchino,3.2
+402,Sándwich,4.5
+402,Smoothie,4.0
+402,Tarta de queso,3.5
+403,Tarta de queso,3.5
+403,Capuchino,3.2
+403,Smoothie,4.0
+404,Croissant,2.2
+405,Tarta de queso,3.5
+406,Ensalada,5.0
+406,Café americano,2.5
+407,Tarta de queso,3.5
+408,Café americano,2.5
+408,Café con leche,3.0
+408,Croissant,2.2
+409,Capuchino,3.2
+409,Café americano,2.5
+410,Ensalada,5.0
+411,Croissant,2.2
+412,Café americano,2.5
+413,Croissant,2.2
+413,Sándwich,4.5
+413,Té verde,2.8
+414,Sándwich,4.5
+414,Croissant,2.2
+414,Té verde,2.8
+415,Café con leche,3.0
+415,Café americano,2.5
+415,Croissant,2.2
+416,Sándwich,4.5
+417,Ensalada,5.0
+417,Té verde,2.8
+418,Ensalada,5.0
+419,Capuchino,3.2
+419,Ensalada,5.0
+420,Croissant,2.2
+420,Sándwich,4.5
+421,Smoothie,4.0
+421,Sándwich,4.5
+421,Tarta de queso,3.5
+422,Capuchino,3.2
+422,Croissant,2.2
+422,Smoothie,4.0
+423,Capuchino,3.2
+424,Croissant,2.2
+424,Sándwich,4.5
+425,Capuchino,3.2
+425,Café con leche,3.0
+425,Café americano,2.5
+426,Ensalada,5.0
+426,Tarta de queso,3.5
+427,Café con leche,3.0
+427,Capuchino,3.2
+427,Ensalada,5.0
+428,Sándwich,4.5
+429,Sándwich,4.5
+429,Capuchino,3.2
+429,Tarta de queso,3.5
+430,Café americano,2.5
+430,Café con leche,3.0
+430,Smoothie,4.0
+431,Croissant,2.2
+431,Té verde,2.8
+432,Smoothie,4.0
+433,Sándwich,4.5
+434,Sándwich,4.5
+434,Café con leche,3.0
+434,Smoothie,4.0
+435,Capuchino,3.2
+435,Sándwich,4.5
+436,Croissant,2.2
+436,Café americano,2.5
+437,Café americano,2.5
+437,Smoothie,4.0
+437,Croissant,2.2
+438,Café americano,2.5
+438,Ensalada,5.0
+438,Croissant,2.2
+439,Smoothie,4.0
+439,Ensalada,5.0
+440,Tarta de queso,3.5
+440,Smoothie,4.0
+441,Capuchino,3.2
+442,Té verde,2.8
+442,Croissant,2.2
+442,Smoothie,4.0
+443,Croissant,2.2
+443,Sándwich,4.5
+443,Té verde,2.8
+444,Sándwich,4.5
+444,Café con leche,3.0
+445,Smoothie,4.0
+445,Ensalada,5.0
+445,Café con leche,3.0
+446,Tarta de queso,3.5
+446,Sándwich,4.5
+446,Café con leche,3.0
+447,Croissant,2.2
+447,Sándwich,4.5
+448,Sándwich,4.5
+449,Ensalada,5.0
+449,Café americano,2.5
+450,Ensalada,5.0
+451,Croissant,2.2
+451,Café americano,2.5
+451,Ensalada,5.0
+452,Ensalada,5.0
+452,Smoothie,4.0
+453,Tarta de queso,3.5
+453,Capuchino,3.2
+454,Tarta de queso,3.5
+454,Croissant,2.2
+454,Café americano,2.5
+455,Té verde,2.8
+455,Croissant,2.2
+456,Sándwich,4.5
+457,Café con leche,3.0
+457,Capuchino,3.2
+457,Café americano,2.5
+458,Croissant,2.2
+458,Sándwich,4.5
+458,Tarta de queso,3.5
+459,Tarta de queso,3.5
+459,Café americano,2.5
+459,Ensalada,5.0
+460,Ensalada,5.0
+460,Sándwich,4.5
+460,Café con leche,3.0
+461,Croissant,2.2
+461,Sándwich,4.5
+461,Café con leche,3.0
+462,Smoothie,4.0
+462,Croissant,2.2
+463,Ensalada,5.0
+463,Smoothie,4.0
+464,Croissant,2.2
+464,Café con leche,3.0
+465,Café americano,2.5
+465,Ensalada,5.0
+465,Capuchino,3.2
+466,Té verde,2.8
+466,Café americano,2.5
+467,Tarta de queso,3.5
+468,Café americano,2.5
+469,Té verde,2.8
+469,Café americano,2.5
+469,Sándwich,4.5
+470,Té verde,2.8
+471,Café americano,2.5
+472,Sándwich,4.5
+472,Croissant,2.2
+473,Tarta de queso,3.5
+473,Croissant,2.2
+473,Café con leche,3.0
+474,Sándwich,4.5
+474,Croissant,2.2
+475,Smoothie,4.0
+475,Ensalada,5.0
+475,Café con leche,3.0
+476,Smoothie,4.0
+477,Smoothie,4.0
+478,Ensalada,5.0
+479,Smoothie,4.0
+479,Sándwich,4.5
+480,Tarta de queso,3.5
+481,Croissant,2.2
+481,Capuchino,3.2
+482,Café con leche,3.0
+483,Smoothie,4.0
+484,Sándwich,4.5
+484,Smoothie,4.0
+485,Capuchino,3.2
+486,Té verde,2.8
+487,Sándwich,4.5
+487,Té verde,2.8
+487,Croissant,2.2
+488,Croissant,2.2
+488,Ensalada,5.0
+488,Café americano,2.5
+489,Sándwich,4.5
+490,Ensalada,5.0
+490,Sándwich,4.5
+491,Smoothie,4.0
+492,Café con leche,3.0
+493,Café americano,2.5
+493,Capuchino,3.2
+493,Té verde,2.8
+494,Café americano,2.5
+494,Tarta de queso,3.5
+495,Smoothie,4.0
+495,Café americano,2.5
+495,Ensalada,5.0
+496,Croissant,2.2
+497,Sándwich,4.5
+497,Ensalada,5.0
+497,Café con leche,3.0
+498,Té verde,2.8
+499,Ensalada,5.0
+499,Smoothie,4.0
+499,Croissant,2.2
+500,Smoothie,4.0
+500,Té verde,2.8
+500,Café con leche,3.0
+501,Tarta de queso,3.5
+501,Sándwich,4.5
+502,Café con leche,3.0
+503,Croissant,2.2
+503,Té verde,2.8
+503,Café americano,2.5
+504,Smoothie,4.0
+504,Croissant,2.2
+505,Café americano,2.5
+506,Té verde,2.8
+506,Café americano,2.5
+507,Capuchino,3.2
+507,Tarta de queso,3.5
+508,Smoothie,4.0
+508,Café con leche,3.0
+509,Croissant,2.2
+509,Té verde,2.8
+510,Capuchino,3.2
+510,Ensalada,5.0
+511,Tarta de queso,3.5
+512,Sándwich,4.5
+513,Té verde,2.8
+513,Café con leche,3.0
+513,Smoothie,4.0
+514,Café con leche,3.0
+514,Sándwich,4.5
+514,Café americano,2.5
+515,Té verde,2.8
+516,Croissant,2.2
+516,Ensalada,5.0
+516,Café americano,2.5
+517,Ensalada,5.0
+518,Café americano,2.5
+519,Ensalada,5.0
+520,Smoothie,4.0
+520,Café americano,2.5
+520,Té verde,2.8
+521,Té verde,2.8
+522,Croissant,2.2
+523,Café americano,2.5
+523,Café con leche,3.0
+523,Té verde,2.8
+524,Capuchino,3.2
+524,Tarta de queso,3.5
+525,Ensalada,5.0
+526,Tarta de queso,3.5
+526,Café con leche,3.0
+527,Sándwich,4.5
+527,Capuchino,3.2
+527,Croissant,2.2
+528,Sándwich,4.5
+529,Té verde,2.8
+529,Café americano,2.5
+530,Ensalada,5.0
+530,Tarta de queso,3.5
+531,Té verde,2.8
+532,Té verde,2.8
+532,Café con leche,3.0
+532,Café americano,2.5
+533,Café americano,2.5
+533,Té verde,2.8
+533,Café con leche,3.0
+534,Ensalada,5.0
+534,Café americano,2.5
+535,Ensalada,5.0
+535,Té verde,2.8
+535,Smoothie,4.0
+536,Café americano,2.5
+536,Capuchino,3.2
+536,Smoothie,4.0
+537,Croissant,2.2
+537,Sándwich,4.5
+537,Café con leche,3.0
+538,Sándwich,4.5
+539,Café americano,2.5
+539,Capuchino,3.2
+539,Croissant,2.2
+540,Café americano,2.5
+540,Croissant,2.2
+540,Ensalada,5.0
+541,Croissant,2.2
+542,Capuchino,3.2
+542,Ensalada,5.0
+542,Café con leche,3.0
+543,Capuchino,3.2
+543,Ensalada,5.0
+543,Café americano,2.5
+544,Sándwich,4.5
+545,Smoothie,4.0
+545,Té verde,2.8
+545,Capuchino,3.2
+546,Croissant,2.2
+546,Café con leche,3.0
+547,Café americano,2.5
+547,Smoothie,4.0
+547,Té verde,2.8
+548,Café con leche,3.0
+549,Sándwich,4.5
+550,Croissant,2.2
+550,Smoothie,4.0
+551,Té verde,2.8
+551,Café con leche,3.0
+552,Té verde,2.8
+553,Tarta de queso,3.5
+553,Té verde,2.8
+554,Tarta de queso,3.5
+554,Ensalada,5.0
+554,Smoothie,4.0
+555,Croissant,2.2
+556,Café con leche,3.0
+557,Croissant,2.2
+557,Té verde,2.8
+557,Capuchino,3.2
+558,Té verde,2.8
+558,Capuchino,3.2
+558,Café americano,2.5
+559,Tarta de queso,3.5
+560,Té verde,2.8
+560,Tarta de queso,3.5
+561,Sándwich,4.5
+561,Croissant,2.2
+561,Capuchino,3.2
+562,Ensalada,5.0
+563,Croissant,2.2
+563,Capuchino,3.2
+563,Café con leche,3.0
+564,Sándwich,4.5
+565,Sándwich,4.5
+566,Café americano,2.5
+566,Sándwich,4.5
+567,Té verde,2.8
+568,Té verde,2.8
+568,Ensalada,5.0
+568,Capuchino,3.2
+569,Ensalada,5.0
+569,Sándwich,4.5
+570,Tarta de queso,3.5
+570,Café americano,2.5
+570,Ensalada,5.0
+571,Smoothie,4.0
+572,Tarta de queso,3.5
+572,Capuchino,3.2
+573,Capuchino,3.2
+573,Té verde,2.8
+573,Café con leche,3.0
+574,Croissant,2.2
+574,Smoothie,4.0
+575,Tarta de queso,3.5
+576,Té verde,2.8
+576,Smoothie,4.0
+577,Café americano,2.5
+577,Café con leche,3.0
+577,Té verde,2.8
+578,Café americano,2.5
+578,Sándwich,4.5
+579,Tarta de queso,3.5
+580,Café con leche,3.0
+580,Café americano,2.5
+580,Sándwich,4.5
+581,Ensalada,5.0
+581,Smoothie,4.0
+582,Smoothie,4.0
+582,Café americano,2.5
+582,Café con leche,3.0
+583,Té verde,2.8
+583,Capuchino,3.2
+583,Tarta de queso,3.5
+584,Café con leche,3.0
+585,Tarta de queso,3.5
+586,Tarta de queso,3.5
+586,Capuchino,3.2
+587,Café con leche,3.0
+588,Café americano,2.5
+589,Café con leche,3.0
+590,Tarta de queso,3.5
+590,Croissant,2.2
+591,Ensalada,5.0
+591,Sándwich,4.5
+592,Tarta de queso,3.5
+593,Tarta de queso,3.5
+593,Café con leche,3.0
+594,Té verde,2.8
+594,Café con leche,3.0
+595,Capuchino,3.2
+595,Tarta de queso,3.5
+595,Sándwich,4.5
+596,Smoothie,4.0
+596,Ensalada,5.0
+596,Capuchino,3.2
+597,Café con leche,3.0
+597,Capuchino,3.2
+597,Té verde,2.8
+598,Tarta de queso,3.5
+598,Café con leche,3.0
+598,Café americano,2.5
+599,Croissant,2.2
+599,Tarta de queso,3.5
+599,Café americano,2.5
+600,Café con leche,3.0
+601,Té verde,2.8
+601,Capuchino,3.2
+602,Smoothie,4.0
+602,Sándwich,4.5
+602,Capuchino,3.2
+603,Tarta de queso,3.5
+604,Café con leche,3.0
+605,Ensalada,5.0
+605,Té verde,2.8
+605,Sándwich,4.5
+606,Tarta de queso,3.5
+606,Croissant,2.2
+607,Croissant,2.2
+607,Ensalada,5.0
+607,Capuchino,3.2
+608,Capuchino,3.2
+608,Smoothie,4.0
+608,Sándwich,4.5
+609,Ensalada,5.0
+609,Croissant,2.2
+609,Café con leche,3.0
+610,Smoothie,4.0
+610,Ensalada,5.0
+611,Croissant,2.2
+611,Tarta de queso,3.5
+611,Capuchino,3.2
+612,Café con leche,3.0
+612,Té verde,2.8
+612,Smoothie,4.0
+613,Sándwich,4.5
+614,Té verde,2.8
+615,Café con leche,3.0
+616,Tarta de queso,3.5
+616,Ensalada,5.0
+616,Café con leche,3.0
+617,Capuchino,3.2
+617,Tarta de queso,3.5
+617,Ensalada,5.0
+618,Ensalada,5.0
+619,Tarta de queso,3.5
+619,Café americano,2.5
+620,Sándwich,4.5
+621,Café con leche,3.0
+622,Croissant,2.2
+622,Capuchino,3.2
+622,Sándwich,4.5
+623,Tarta de queso,3.5
+623,Croissant,2.2
+623,Sándwich,4.5
+624,Smoothie,4.0
+624,Té verde,2.8
+625,Té verde,2.8
+626,Sándwich,4.5
+626,Capuchino,3.2
+626,Ensalada,5.0
+627,Smoothie,4.0
+627,Tarta de queso,3.5
+628,Capuchino,3.2
+628,Croissant,2.2
+629,Té verde,2.8
+630,Café con leche,3.0
+630,Ensalada,5.0
+631,Café con leche,3.0
+631,Smoothie,4.0
+632,Café americano,2.5
+633,Capuchino,3.2
+634,Sándwich,4.5
+634,Capuchino,3.2
+635,Tarta de queso,3.5
+635,Ensalada,5.0
+636,Capuchino,3.2
+637,Tarta de queso,3.5
+638,Té verde,2.8
+639,Café americano,2.5
+640,Café con leche,3.0
+640,Sándwich,4.5
+641,Croissant,2.2
+641,Sándwich,4.5
+641,Café con leche,3.0
+642,Ensalada,5.0
+643,Tarta de queso,3.5
+643,Sándwich,4.5
+644,Capuchino,3.2
+645,Smoothie,4.0
+645,Café con leche,3.0
+645,Croissant,2.2
+646,Smoothie,4.0
+646,Café con leche,3.0
+647,Sándwich,4.5
+647,Tarta de queso,3.5
+648,Tarta de queso,3.5
+649,Sándwich,4.5
+649,Capuchino,3.2
+650,Capuchino,3.2
+650,Sándwich,4.5
+651,Café americano,2.5
+651,Croissant,2.2
+651,Sándwich,4.5
+652,Tarta de queso,3.5
+652,Ensalada,5.0
+652,Té verde,2.8
+653,Ensalada,5.0
+654,Café americano,2.5
+654,Té verde,2.8
+655,Sándwich,4.5
+655,Smoothie,4.0
+655,Café con leche,3.0
+656,Ensalada,5.0
+656,Café con leche,3.0
+656,Smoothie,4.0
+657,Croissant,2.2
+658,Ensalada,5.0
+658,Té verde,2.8
+659,Té verde,2.8
+660,Ensalada,5.0
+660,Smoothie,4.0
+661,Ensalada,5.0
+661,Café con leche,3.0
+661,Tarta de queso,3.5
+662,Croissant,2.2
+662,Tarta de queso,3.5
+662,Café con leche,3.0
+663,Té verde,2.8
+664,Sándwich,4.5
+665,Croissant,2.2
+665,Smoothie,4.0
+666,Sándwich,4.5
+666,Café con leche,3.0
+666,Ensalada,5.0
+667,Café americano,2.5
+667,Smoothie,4.0
+668,Capuchino,3.2
+668,Té verde,2.8
+669,Té verde,2.8
+669,Tarta de queso,3.5
+670,Smoothie,4.0
+670,Tarta de queso,3.5
+670,Té verde,2.8
+671,Café con leche,3.0
+671,Tarta de queso,3.5
+671,Smoothie,4.0
+672,Croissant,2.2
+672,Ensalada,5.0
+672,Té verde,2.8
+673,Café con leche,3.0
+673,Ensalada,5.0
+674,Café con leche,3.0
+675,Tarta de queso,3.5
+675,Té verde,2.8
+676,Smoothie,4.0
+677,Ensalada,5.0
+677,Croissant,2.2
+678,Café americano,2.5
+679,Ensalada,5.0
+679,Café americano,2.5
+679,Sándwich,4.5
+680,Ensalada,5.0
+680,Café americano,2.5
+681,Capuchino,3.2
+681,Smoothie,4.0
+681,Café con leche,3.0
+682,Café con leche,3.0
+683,Croissant,2.2
+683,Capuchino,3.2
+683,Café americano,2.5
+684,Té verde,2.8
+685,Café con leche,3.0
+685,Café americano,2.5
+686,Té verde,2.8
+687,Café americano,2.5
+687,Croissant,2.2
+687,Tarta de queso,3.5
+688,Capuchino,3.2
+689,Café con leche,3.0
+690,Croissant,2.2
+691,Tarta de queso,3.5
+691,Capuchino,3.2
+692,Café con leche,3.0
+692,Café americano,2.5
+693,Croissant,2.2
+693,Té verde,2.8
+694,Tarta de queso,3.5
+694,Ensalada,5.0
+694,Sándwich,4.5
+695,Café con leche,3.0
+695,Tarta de queso,3.5
+696,Capuchino,3.2
+696,Té verde,2.8
+696,Sándwich,4.5
+697,Smoothie,4.0
+697,Café americano,2.5
+697,Tarta de queso,3.5
+698,Té verde,2.8
+699,Tarta de queso,3.5
+700,Té verde,2.8
+700,Ensalada,5.0
+701,Café con leche,3.0
+701,Café americano,2.5
+702,Capuchino,3.2
+702,Tarta de queso,3.5
+703,Croissant,2.2
+703,Capuchino,3.2
+703,Tarta de queso,3.5
+704,Café con leche,3.0
+705,Smoothie,4.0
+706,Tarta de queso,3.5
+707,Sándwich,4.5
+707,Tarta de queso,3.5
+708,Sándwich,4.5
+709,Café con leche,3.0
+709,Smoothie,4.0
+710,Capuchino,3.2
+710,Croissant,2.2
+710,Té verde,2.8
+711,Café con leche,3.0
+712,Té verde,2.8
+712,Café americano,2.5
+713,Café con leche,3.0
+713,Ensalada,5.0
+714,Capuchino,3.2
+714,Café con leche,3.0
+715,Café americano,2.5
+715,Capuchino,3.2
+715,Té verde,2.8
+716,Smoothie,4.0
+716,Capuchino,3.2
+717,Smoothie,4.0
+717,Café con leche,3.0
+718,Tarta de queso,3.5
+718,Smoothie,4.0
+718,Ensalada,5.0
+719,Café con leche,3.0
+719,Ensalada,5.0
+719,Té verde,2.8
+720,Capuchino,3.2
+720,Croissant,2.2
+721,Café con leche,3.0
+721,Té verde,2.8
+722,Café americano,2.5
+722,Té verde,2.8
+723,Capuchino,3.2
+724,Café americano,2.5
+724,Tarta de queso,3.5
+725,Croissant,2.2
+726,Croissant,2.2
+727,Café americano,2.5
+728,Café americano,2.5
+729,Ensalada,5.0
+729,Smoothie,4.0
+730,Café con leche,3.0
+730,Ensalada,5.0
+730,Café americano,2.5
+731,Smoothie,4.0
+732,Croissant,2.2
+733,Té verde,2.8
+733,Sándwich,4.5
+733,Café con leche,3.0
+734,Té verde,2.8
+734,Croissant,2.2
+734,Ensalada,5.0
+735,Croissant,2.2
+736,Smoothie,4.0
+737,Té verde,2.8
+738,Capuchino,3.2
+738,Smoothie,4.0
+739,Sándwich,4.5
+740,Ensalada,5.0
+741,Café con leche,3.0
+742,Tarta de queso,3.5
+742,Café con leche,3.0
+743,Capuchino,3.2
+743,Té verde,2.8
+744,Tarta de queso,3.5
+744,Croissant,2.2
+744,Capuchino,3.2
+745,Té verde,2.8
+745,Capuchino,3.2
+746,Capuchino,3.2
+746,Café con leche,3.0
+747,Tarta de queso,3.5
+747,Café con leche,3.0
+748,Té verde,2.8
+749,Café con leche,3.0
+750,Smoothie,4.0
+750,Café americano,2.5
+750,Café con leche,3.0
+751,Café con leche,3.0
+751,Té verde,2.8
+752,Café americano,2.5
+753,Capuchino,3.2
+753,Café americano,2.5
+753,Té verde,2.8
+754,Sándwich,4.5
+754,Té verde,2.8
+754,Café americano,2.5
+755,Capuchino,3.2
+756,Té verde,2.8
+757,Croissant,2.2
+758,Café con leche,3.0
+759,Café con leche,3.0
+760,Ensalada,5.0
+760,Capuchino,3.2
+761,Croissant,2.2
+761,Café con leche,3.0
+761,Café americano,2.5
+762,Tarta de queso,3.5
+763,Café americano,2.5
+764,Croissant,2.2
+764,Té verde,2.8
+764,Café con leche,3.0
+765,Capuchino,3.2
+765,Café americano,2.5
+766,Smoothie,4.0
+767,Ensalada,5.0
+767,Café americano,2.5
+768,Tarta de queso,3.5
+769,Sándwich,4.5
+769,Té verde,2.8
+770,Café americano,2.5
+770,Tarta de queso,3.5
+771,Sándwich,4.5
+771,Ensalada,5.0
+772,Croissant,2.2
+772,Tarta de queso,3.5
+772,Capuchino,3.2
+773,Té verde,2.8
+774,Ensalada,5.0
+775,Té verde,2.8
+775,Capuchino,3.2
+775,Café americano,2.5
+776,Sándwich,4.5
+776,Café americano,2.5
+776,Tarta de queso,3.5
+777,Tarta de queso,3.5
+777,Croissant,2.2
+778,Capuchino,3.2
+778,Sándwich,4.5
+779,Croissant,2.2
+779,Café americano,2.5
+780,Capuchino,3.2
+781,Ensalada,5.0
+781,Smoothie,4.0
+782,Café americano,2.5
+782,Té verde,2.8
+783,Ensalada,5.0
+783,Café americano,2.5
+784,Capuchino,3.2
+785,Croissant,2.2
+785,Café americano,2.5
+786,Capuchino,3.2
+786,Café con leche,3.0
+787,Café con leche,3.0
+787,Croissant,2.2
+788,Café con leche,3.0
+789,Capuchino,3.2
+789,Tarta de queso,3.5
+790,Croissant,2.2
+790,Capuchino,3.2
+791,Croissant,2.2
+791,Té verde,2.8
+792,Tarta de queso,3.5
+792,Smoothie,4.0
+792,Croissant,2.2
+793,Café americano,2.5
+794,Tarta de queso,3.5
+794,Café americano,2.5
+795,Té verde,2.8
+795,Café con leche,3.0
+795,Sándwich,4.5
+796,Té verde,2.8
+797,Café con leche,3.0
+798,Croissant,2.2
+799,Té verde,2.8
+799,Café con leche,3.0
+799,Capuchino,3.2
+800,Café americano,2.5
+800,Sándwich,4.5
+801,Capuchino,3.2
+801,Tarta de queso,3.5
+801,Té verde,2.8
+802,Tarta de queso,3.5
+803,Té verde,2.8
+803,Capuchino,3.2
+804,Café americano,2.5
+804,Smoothie,4.0
+805,Café con leche,3.0
+805,Sándwich,4.5
+805,Capuchino,3.2
+806,Café con leche,3.0
+806,Sándwich,4.5
+807,Ensalada,5.0
+808,Capuchino,3.2
+808,Tarta de queso,3.5
+808,Café con leche,3.0
+809,Té verde,2.8
+810,Sándwich,4.5
+810,Smoothie,4.0
+811,Café con leche,3.0
+812,Ensalada,5.0
+812,Capuchino,3.2
+812,Café americano,2.5
+813,Smoothie,4.0
+813,Ensalada,5.0
+813,Café con leche,3.0
+814,Smoothie,4.0
+815,Café con leche,3.0
+816,Ensalada,5.0
+816,Smoothie,4.0
+817,Capuchino,3.2
+818,Capuchino,3.2
+819,Ensalada,5.0
+819,Smoothie,4.0
+819,Café con leche,3.0
+820,Capuchino,3.2
+821,Café con leche,3.0
+821,Croissant,2.2
+821,Tarta de queso,3.5
+822,Té verde,2.8
+823,Sándwich,4.5
+823,Tarta de queso,3.5
+823,Smoothie,4.0
+824,Té verde,2.8
+824,Ensalada,5.0
+825,Café americano,2.5
+826,Capuchino,3.2
+827,Capuchino,3.2
+828,Té verde,2.8
+828,Sándwich,4.5
+828,Café con leche,3.0
+829,Tarta de queso,3.5
+829,Té verde,2.8
+829,Sándwich,4.5
+830,Smoothie,4.0
+830,Croissant,2.2
+831,Café con leche,3.0
+832,Sándwich,4.5
+832,Croissant,2.2
+832,Tarta de queso,3.5
+833,Café americano,2.5
+834,Sándwich,4.5
+835,Capuchino,3.2
+835,Sándwich,4.5
+836,Café con leche,3.0
+836,Sándwich,4.5
+836,Smoothie,4.0
+837,Sándwich,4.5
+837,Croissant,2.2
+837,Té verde,2.8
+838,Ensalada,5.0
+838,Café americano,2.5
+838,Café con leche,3.0
+839,Tarta de queso,3.5
+839,Café americano,2.5
+839,Té verde,2.8
+840,Té verde,2.8
+840,Café americano,2.5
+840,Croissant,2.2
+841,Croissant,2.2
+841,Café americano,2.5
+842,Smoothie,4.0
+842,Sándwich,4.5
+842,Tarta de queso,3.5
+843,Café con leche,3.0
+843,Té verde,2.8
+844,Ensalada,5.0
+844,Croissant,2.2
+844,Capuchino,3.2
+845,Café con leche,3.0
+845,Té verde,2.8
+845,Ensalada,5.0
+846,Ensalada,5.0
+846,Croissant,2.2
+846,Tarta de queso,3.5
+847,Café con leche,3.0
+847,Smoothie,4.0
+847,Croissant,2.2
+848,Sándwich,4.5
+848,Café americano,2.5
+849,Té verde,2.8
+850,Ensalada,5.0
+851,Té verde,2.8
+852,Sándwich,4.5
+852,Tarta de queso,3.5
+852,Croissant,2.2
+853,Té verde,2.8
+853,Croissant,2.2
+854,Ensalada,5.0
+854,Croissant,2.2
+854,Capuchino,3.2
+855,Café con leche,3.0
+855,Smoothie,4.0
+855,Café americano,2.5
+856,Té verde,2.8
+856,Sándwich,4.5
+857,Smoothie,4.0
+857,Tarta de queso,3.5
+858,Café americano,2.5
+858,Ensalada,5.0
+858,Café con leche,3.0
+859,Café americano,2.5
+859,Té verde,2.8
+860,Smoothie,4.0
+861,Tarta de queso,3.5
+861,Croissant,2.2
+861,Té verde,2.8
+862,Sándwich,4.5
+863,Café con leche,3.0
+863,Café americano,2.5
+864,Croissant,2.2
+864,Smoothie,4.0
+865,Café con leche,3.0
+865,Croissant,2.2
+865,Capuchino,3.2
+866,Smoothie,4.0
+866,Sándwich,4.5
+866,Café con leche,3.0
+867,Café americano,2.5
+867,Tarta de queso,3.5
+867,Croissant,2.2
+868,Café americano,2.5
+868,Ensalada,5.0
+869,Tarta de queso,3.5
+870,Té verde,2.8
+870,Croissant,2.2
+871,Sándwich,4.5
+872,Croissant,2.2
+872,Smoothie,4.0
+873,Sándwich,4.5
+873,Capuchino,3.2
+873,Ensalada,5.0
+874,Smoothie,4.0
+874,Capuchino,3.2
+875,Café con leche,3.0
+875,Té verde,2.8
+876,Smoothie,4.0
+876,Tarta de queso,3.5
+877,Smoothie,4.0
+878,Café con leche,3.0
+878,Ensalada,5.0
+879,Café con leche,3.0
+879,Ensalada,5.0
+879,Sándwich,4.5
+880,Tarta de queso,3.5
+880,Smoothie,4.0
+881,Capuchino,3.2
+881,Sándwich,4.5
+882,Ensalada,5.0
+882,Capuchino,3.2
+883,Café con leche,3.0
+883,Ensalada,5.0
+883,Capuchino,3.2
+884,Café americano,2.5
+884,Sándwich,4.5
+885,Capuchino,3.2
+886,Café con leche,3.0
+887,Tarta de queso,3.5
+887,Sándwich,4.5
+887,Té verde,2.8
+888,Café americano,2.5
+888,Té verde,2.8
+888,Croissant,2.2
+889,Croissant,2.2
+889,Té verde,2.8
+890,Té verde,2.8
+891,Smoothie,4.0
+891,Capuchino,3.2
+892,Smoothie,4.0
+893,Smoothie,4.0
+893,Sándwich,4.5
+893,Té verde,2.8
+894,Croissant,2.2
+894,Tarta de queso,3.5
+895,Croissant,2.2
+895,Ensalada,5.0
+895,Capuchino,3.2
+896,Tarta de queso,3.5
+896,Café americano,2.5
+896,Café con leche,3.0
+897,Té verde,2.8
+897,Café americano,2.5
+897,Smoothie,4.0
+898,Café americano,2.5
+899,Sándwich,4.5
+899,Café americano,2.5
+900,Café con leche,3.0
+900,Café americano,2.5
+901,Ensalada,5.0
+901,Tarta de queso,3.5
+901,Café americano,2.5
+902,Capuchino,3.2
+902,Té verde,2.8
+903,Smoothie,4.0
+903,Tarta de queso,3.5
+904,Smoothie,4.0
+904,Capuchino,3.2
+904,Té verde,2.8
+905,Café con leche,3.0
+905,Smoothie,4.0
+905,Café americano,2.5
+906,Té verde,2.8
+907,Té verde,2.8
+907,Croissant,2.2
+908,Café americano,2.5
+909,Ensalada,5.0
+909,Croissant,2.2
+910,Café con leche,3.0
+911,Ensalada,5.0
+912,Café con leche,3.0
+912,Smoothie,4.0
+912,Croissant,2.2
+913,Smoothie,4.0
+913,Sándwich,4.5
+913,Té verde,2.8
+914,Café americano,2.5
+915,Croissant,2.2
+916,Café americano,2.5
+916,Sándwich,4.5
+916,Tarta de queso,3.5
+917,Croissant,2.2
+917,Sándwich,4.5
+917,Té verde,2.8
+918,Café con leche,3.0
+919,Café con leche,3.0
+919,Tarta de queso,3.5
+920,Tarta de queso,3.5
+920,Ensalada,5.0
+921,Capuchino,3.2
+921,Café con leche,3.0
+921,Ensalada,5.0
+922,Capuchino,3.2
+923,Ensalada,5.0
+924,Capuchino,3.2
+924,Tarta de queso,3.5
+924,Ensalada,5.0
+925,Capuchino,3.2
+925,Ensalada,5.0
+925,Té verde,2.8
+926,Café americano,2.5
+926,Café con leche,3.0
+926,Capuchino,3.2
+927,Sándwich,4.5
+928,Té verde,2.8
+928,Croissant,2.2
+929,Café con leche,3.0
+930,Ensalada,5.0
+931,Tarta de queso,3.5
+932,Café americano,2.5
+933,Sándwich,4.5
+934,Capuchino,3.2
+935,Té verde,2.8
+935,Croissant,2.2
+936,Té verde,2.8
+937,Té verde,2.8
+938,Ensalada,5.0
+938,Café con leche,3.0
+939,Café con leche,3.0
+939,Ensalada,5.0
+940,Tarta de queso,3.5
+940,Sándwich,4.5
+940,Café americano,2.5
+941,Café con leche,3.0
+941,Smoothie,4.0
+942,Ensalada,5.0
+942,Croissant,2.2
+943,Té verde,2.8
+944,Ensalada,5.0
+944,Croissant,2.2
+944,Sándwich,4.5
+945,Té verde,2.8
+945,Café americano,2.5
+945,Capuchino,3.2
+946,Smoothie,4.0
+946,Croissant,2.2
+946,Ensalada,5.0
+947,Ensalada,5.0
+948,Tarta de queso,3.5
+949,Té verde,2.8
+949,Café con leche,3.0
+950,Ensalada,5.0
+950,Té verde,2.8
+951,Tarta de queso,3.5
+951,Café americano,2.5
+952,Café con leche,3.0
+953,Sándwich,4.5
+953,Capuchino,3.2
+953,Té verde,2.8
+954,Sándwich,4.5
+954,Tarta de queso,3.5
+954,Ensalada,5.0
+955,Capuchino,3.2
+955,Sándwich,4.5
+955,Croissant,2.2
+956,Croissant,2.2
+956,Tarta de queso,3.5
+957,Té verde,2.8
+957,Smoothie,4.0
+958,Smoothie,4.0
+958,Ensalada,5.0
+959,Sándwich,4.5
+959,Smoothie,4.0
+960,Croissant,2.2
+961,Té verde,2.8
+961,Sándwich,4.5
+961,Café con leche,3.0
+962,Croissant,2.2
+962,Capuchino,3.2
+963,Capuchino,3.2
+963,Croissant,2.2
+964,Sándwich,4.5
+965,Tarta de queso,3.5
+965,Smoothie,4.0
+966,Café americano,2.5
+966,Café con leche,3.0
+967,Café americano,2.5
+967,Té verde,2.8
+967,Capuchino,3.2
+968,Smoothie,4.0
+968,Sándwich,4.5
+968,Café con leche,3.0
+969,Smoothie,4.0
+969,Té verde,2.8
+969,Tarta de queso,3.5
+970,Ensalada,5.0
+970,Café con leche,3.0
+971,Sándwich,4.5
+971,Té verde,2.8
+971,Croissant,2.2
+972,Sándwich,4.5
+972,Smoothie,4.0
+972,Croissant,2.2
+973,Tarta de queso,3.5
+973,Sándwich,4.5
+974,Croissant,2.2
+974,Café americano,2.5
+975,Ensalada,5.0
+975,Té verde,2.8
+976,Croissant,2.2
+976,Té verde,2.8
+976,Tarta de queso,3.5
+977,Ensalada,5.0
+977,Capuchino,3.2
+978,Capuchino,3.2
+978,Café con leche,3.0
+978,Té verde,2.8
+979,Smoothie,4.0
+979,Capuchino,3.2
+979,Café con leche,3.0
+980,Croissant,2.2
+980,Ensalada,5.0
+980,Sándwich,4.5
+981,Croissant,2.2
+981,Café americano,2.5
+981,Tarta de queso,3.5
+982,Smoothie,4.0
+983,Croissant,2.2
+984,Sándwich,4.5
+984,Té verde,2.8
+984,Café con leche,3.0
+985,Capuchino,3.2
+985,Tarta de queso,3.5
+986,Croissant,2.2
+986,Té verde,2.8
+986,Café con leche,3.0
+987,Smoothie,4.0
+987,Té verde,2.8
+988,Ensalada,5.0
+988,Café americano,2.5
+988,Sándwich,4.5
+989,Té verde,2.8
+989,Café americano,2.5
+990,Café con leche,3.0
+990,Tarta de queso,3.5
+991,Café americano,2.5
+992,Croissant,2.2
+993,Ensalada,5.0
+993,Café americano,2.5
+993,Capuchino,3.2
+994,Sándwich,4.5
+994,Café con leche,3.0
+994,Café americano,2.5
+995,Sándwich,4.5
+995,Café americano,2.5
+996,Té verde,2.8
+996,Tarta de queso,3.5
+997,Tarta de queso,3.5
+998,Capuchino,3.2
+998,Café americano,2.5
+999,Café con leche,3.0
+1000,Smoothie,4.0
+1000,Café con leche,3.0
+1000,Sándwich,4.5
+1001,Tarta de queso,3.5
+1002,Tarta de queso,3.5
+1003,Café con leche,3.0
+1004,Café con leche,3.0
+1004,Café americano,2.5
+1004,Croissant,2.2
+1005,Sándwich,4.5
+1006,Smoothie,4.0
+1006,Café con leche,3.0
+1007,Tarta de queso,3.5
+1007,Sándwich,4.5
+1008,Capuchino,3.2
+1009,Tarta de queso,3.5
+1010,Smoothie,4.0
+1010,Capuchino,3.2
+1010,Ensalada,5.0
+1011,Croissant,2.2
+1011,Café americano,2.5
+1012,Café con leche,3.0
+1012,Café americano,2.5
+1013,Sándwich,4.5
+1013,Café con leche,3.0
+1013,Capuchino,3.2
+1014,Croissant,2.2
+1014,Té verde,2.8
+1014,Ensalada,5.0
+1015,Capuchino,3.2
+1016,Smoothie,4.0
+1016,Té verde,2.8
+1017,Café americano,2.5
+1018,Sándwich,4.5
+1019,Smoothie,4.0
+1019,Café con leche,3.0
+1020,Ensalada,5.0
+1020,Croissant,2.2
+1020,Capuchino,3.2
+1021,Café con leche,3.0
+1021,Smoothie,4.0
+1022,Croissant,2.2
+1022,Ensalada,5.0
+1023,Smoothie,4.0
+1023,Capuchino,3.2
+1024,Croissant,2.2
+1024,Tarta de queso,3.5
+1025,Tarta de queso,3.5
+1025,Smoothie,4.0
+1025,Sándwich,4.5
+1026,Croissant,2.2
+1026,Ensalada,5.0
+1026,Té verde,2.8
+1027,Ensalada,5.0
+1028,Café con leche,3.0
+1028,Smoothie,4.0
+1028,Tarta de queso,3.5
+1029,Té verde,2.8
+1030,Café con leche,3.0
+1031,Sándwich,4.5
+1031,Café americano,2.5
+1032,Té verde,2.8
+1032,Café americano,2.5
+1032,Smoothie,4.0
+1033,Sándwich,4.5
+1034,Croissant,2.2
+1034,Tarta de queso,3.5
+1035,Smoothie,4.0
+1035,Capuchino,3.2
+1036,Tarta de queso,3.5
+1036,Croissant,2.2
+1036,Smoothie,4.0
+1037,Capuchino,3.2
+1037,Sándwich,4.5
+1037,Té verde,2.8
+1038,Capuchino,3.2
+1038,Ensalada,5.0
+1038,Sándwich,4.5
+1039,Té verde,2.8
+1039,Café con leche,3.0
+1040,Té verde,2.8
+1040,Croissant,2.2
+1041,Café americano,2.5
+1041,Sándwich,4.5
+1041,Croissant,2.2
+1042,Sándwich,4.5
+1042,Smoothie,4.0
+1043,Sándwich,4.5
+1044,Tarta de queso,3.5
+1044,Croissant,2.2
+1045,Café con leche,3.0
+1045,Smoothie,4.0
+1045,Té verde,2.8
+1046,Tarta de queso,3.5
+1046,Croissant,2.2
+1046,Sándwich,4.5
+1047,Ensalada,5.0
+1048,Capuchino,3.2
+1048,Ensalada,5.0
+1048,Café con leche,3.0
+1049,Smoothie,4.0
+1050,Croissant,2.2
+1051,Té verde,2.8
+1051,Tarta de queso,3.5
+1051,Ensalada,5.0
+1052,Ensalada,5.0
+1052,Sándwich,4.5
+1052,Café con leche,3.0
+1053,Tarta de queso,3.5
+1053,Café americano,2.5
+1054,Capuchino,3.2
+1055,Capuchino,3.2
+1055,Café americano,2.5
+1056,Sándwich,4.5
+1056,Tarta de queso,3.5
+1057,Café americano,2.5
+1058,Smoothie,4.0
+1058,Café con leche,3.0
+1058,Ensalada,5.0
+1059,Ensalada,5.0
+1060,Capuchino,3.2
+1060,Sándwich,4.5
+1060,Smoothie,4.0
+1061,Croissant,2.2
+1062,Café con leche,3.0
+1063,Café con leche,3.0
+1064,Sándwich,4.5
+1064,Tarta de queso,3.5
+1065,Capuchino,3.2
+1065,Ensalada,5.0
+1065,Smoothie,4.0
+1066,Sándwich,4.5
+1066,Café con leche,3.0
+1066,Café americano,2.5
+1067,Sándwich,4.5
+1068,Tarta de queso,3.5
+1069,Café americano,2.5
+1070,Ensalada,5.0
+1071,Café con leche,3.0
+1071,Tarta de queso,3.5
+1072,Té verde,2.8
+1072,Café con leche,3.0
+1073,Tarta de queso,3.5
+1073,Smoothie,4.0
+1074,Café americano,2.5
+1075,Café americano,2.5
+1075,Tarta de queso,3.5
+1075,Croissant,2.2
+1076,Tarta de queso,3.5
+1077,Smoothie,4.0
+1078,Croissant,2.2
+1078,Smoothie,4.0
+1078,Sándwich,4.5
+1079,Sándwich,4.5
+1079,Ensalada,5.0
+1080,Ensalada,5.0
+1080,Smoothie,4.0
+1081,Tarta de queso,3.5
+1081,Capuchino,3.2
+1081,Sándwich,4.5
+1082,Té verde,2.8
+1082,Ensalada,5.0
+1082,Tarta de queso,3.5
+1083,Té verde,2.8
+1083,Tarta de queso,3.5
+1083,Ensalada,5.0
+1084,Café americano,2.5
+1085,Café americano,2.5
+1085,Café con leche,3.0
+1086,Tarta de queso,3.5
+1086,Café con leche,3.0
+1086,Café americano,2.5
+1087,Café americano,2.5
+1087,Tarta de queso,3.5
+1088,Sándwich,4.5
+1089,Café americano,2.5
+1089,Capuchino,3.2
+1089,Croissant,2.2
+1090,Sándwich,4.5
+1091,Sándwich,4.5
+1091,Té verde,2.8
+1092,Croissant,2.2
+1092,Té verde,2.8
+1093,Café con leche,3.0
+1093,Smoothie,4.0
+1093,Tarta de queso,3.5
+1094,Tarta de queso,3.5
+1094,Té verde,2.8
+1095,Café con leche,3.0
+1096,Sándwich,4.5
+1097,Smoothie,4.0
+1098,Ensalada,5.0
+1098,Tarta de queso,3.5
+1099,Tarta de queso,3.5
+1099,Café con leche,3.0
+1099,Smoothie,4.0
+1100,Café con leche,3.0
+1100,Smoothie,4.0
+1101,Smoothie,4.0
+1102,Ensalada,5.0
+1103,Ensalada,5.0
+1103,Sándwich,4.5
+1103,Smoothie,4.0
+1104,Smoothie,4.0
+1104,Café con leche,3.0
+1104,Té verde,2.8
+1105,Té verde,2.8
+1105,Croissant,2.2
+1106,Sándwich,4.5
+1106,Café americano,2.5
+1106,Croissant,2.2
+1107,Café con leche,3.0
+1108,Croissant,2.2
+1108,Café con leche,3.0
+1109,Croissant,2.2
+1110,Smoothie,4.0
+1110,Capuchino,3.2
+1111,Té verde,2.8
+1111,Ensalada,5.0
+1111,Croissant,2.2
+1112,Smoothie,4.0
+1112,Té verde,2.8
+1113,Croissant,2.2
+1113,Capuchino,3.2
+1114,Café con leche,3.0
+1114,Ensalada,5.0
+1114,Smoothie,4.0
+1115,Café americano,2.5
+1115,Ensalada,5.0
+1115,Capuchino,3.2
+1116,Smoothie,4.0
+1117,Sándwich,4.5
+1118,Capuchino,3.2
+1118,Café americano,2.5
+1119,Sándwich,4.5
+1120,Capuchino,3.2
+1120,Ensalada,5.0
+1120,Café americano,2.5
+1121,Café americano,2.5
+1122,Café con leche,3.0
+1122,Croissant,2.2
+1122,Capuchino,3.2
+1123,Sándwich,4.5
+1123,Smoothie,4.0
+1124,Croissant,2.2
+1124,Sándwich,4.5
+1125,Tarta de queso,3.5
+1125,Croissant,2.2
+1126,Ensalada,5.0
+1126,Capuchino,3.2
+1127,Té verde,2.8
+1127,Café con leche,3.0
+1128,Sándwich,4.5
+1129,Capuchino,3.2
+1129,Sándwich,4.5
+1130,Tarta de queso,3.5
+1130,Ensalada,5.0
+1131,Sándwich,4.5
+1131,Croissant,2.2
+1131,Tarta de queso,3.5
+1132,Café americano,2.5
+1132,Tarta de queso,3.5
+1132,Sándwich,4.5
+1133,Smoothie,4.0
+1133,Ensalada,5.0
+1134,Smoothie,4.0
+1134,Croissant,2.2
+1135,Smoothie,4.0
+1135,Croissant,2.2
+1136,Té verde,2.8
+1136,Capuchino,3.2
+1136,Tarta de queso,3.5
+1137,Sándwich,4.5
+1137,Ensalada,5.0
+1137,Tarta de queso,3.5
+1138,Tarta de queso,3.5
+1139,Capuchino,3.2
+1139,Sándwich,4.5
+1139,Croissant,2.2
+1140,Tarta de queso,3.5
+1140,Café con leche,3.0
+1140,Café americano,2.5
+1141,Croissant,2.2
+1142,Tarta de queso,3.5
+1142,Smoothie,4.0
+1142,Té verde,2.8
+1143,Sándwich,4.5
+1143,Ensalada,5.0
+1144,Café americano,2.5
+1144,Capuchino,3.2
+1145,Café con leche,3.0
+1145,Té verde,2.8
+1146,Café con leche,3.0
+1147,Café americano,2.5
+1147,Sándwich,4.5
+1147,Tarta de queso,3.5
+1148,Café con leche,3.0
+1148,Sándwich,4.5
+1149,Tarta de queso,3.5
+1149,Smoothie,4.0
+1149,Café con leche,3.0
+1150,Capuchino,3.2
+1151,Café americano,2.5
+1151,Sándwich,4.5
+1152,Croissant,2.2
+1152,Ensalada,5.0
+1153,Smoothie,4.0
+1153,Ensalada,5.0
+1154,Sándwich,4.5
+1155,Tarta de queso,3.5
+1155,Smoothie,4.0
+1156,Té verde,2.8
+1156,Café con leche,3.0
+1156,Sándwich,4.5
+1157,Capuchino,3.2
+1157,Smoothie,4.0
+1158,Capuchino,3.2
+1158,Croissant,2.2
+1159,Ensalada,5.0
+1160,Café americano,2.5
+1160,Tarta de queso,3.5
+1161,Café americano,2.5
+1161,Croissant,2.2
+1161,Café con leche,3.0
+1162,Tarta de queso,3.5
+1163,Tarta de queso,3.5
+1164,Café con leche,3.0
+1165,Smoothie,4.0
+1165,Sándwich,4.5
+1165,Croissant,2.2
+1166,Tarta de queso,3.5
+1167,Capuchino,3.2
+1167,Smoothie,4.0
+1167,Café americano,2.5
+1168,Smoothie,4.0
+1169,Croissant,2.2
+1169,Café americano,2.5
+1169,Café con leche,3.0
+1170,Capuchino,3.2
+1170,Café con leche,3.0
+1170,Sándwich,4.5
+1171,Café americano,2.5
+1171,Té verde,2.8
+1171,Sándwich,4.5
+1172,Croissant,2.2
+1172,Tarta de queso,3.5
+1172,Capuchino,3.2
+1173,Croissant,2.2
+1174,Croissant,2.2
+1174,Café con leche,3.0
+1175,Café americano,2.5
+1176,Sándwich,4.5
+1176,Ensalada,5.0
+1176,Café con leche,3.0
+1177,Tarta de queso,3.5
+1177,Café americano,2.5
+1178,Té verde,2.8
+1178,Tarta de queso,3.5
+1179,Café americano,2.5
+1179,Té verde,2.8
+1180,Sándwich,4.5
+1181,Tarta de queso,3.5
+1181,Smoothie,4.0
+1181,Capuchino,3.2
+1182,Sándwich,4.5
+1182,Café con leche,3.0
+1183,Té verde,2.8
+1183,Croissant,2.2
+1184,Té verde,2.8
+1185,Tarta de queso,3.5
+1185,Croissant,2.2
+1185,Café americano,2.5
+1186,Café con leche,3.0
+1186,Tarta de queso,3.5
+1187,Café americano,2.5
+1187,Ensalada,5.0
+1187,Croissant,2.2
+1188,Café con leche,3.0
+1188,Té verde,2.8
+1188,Sándwich,4.5
+1189,Croissant,2.2
+1189,Café americano,2.5
+1190,Sándwich,4.5
+1191,Té verde,2.8
+1191,Croissant,2.2
+1191,Smoothie,4.0
+1192,Ensalada,5.0
+1192,Té verde,2.8
+1192,Café americano,2.5
+1193,Capuchino,3.2
+1193,Smoothie,4.0
+1194,Ensalada,5.0
+1194,Smoothie,4.0
+1195,Capuchino,3.2
+1196,Ensalada,5.0
+1197,Sándwich,4.5
+1197,Capuchino,3.2
+1197,Café americano,2.5
+1198,Smoothie,4.0
+1199,Sándwich,4.5
+1200,Café americano,2.5
+1200,Croissant,2.2
+1201,Café con leche,3.0
+1201,Tarta de queso,3.5
+1202,Sándwich,4.5
+1202,Capuchino,3.2
+1202,Smoothie,4.0
+1203,Croissant,2.2
+1203,Café con leche,3.0
+1203,Café americano,2.5
+1204,Capuchino,3.2
+1204,Sándwich,4.5
+1204,Tarta de queso,3.5
+1205,Té verde,2.8
+1205,Café con leche,3.0
+1206,Tarta de queso,3.5
+1207,Smoothie,4.0
+1207,Café americano,2.5
+1207,Capuchino,3.2
+1208,Café americano,2.5
+1208,Té verde,2.8
+1209,Café con leche,3.0
+1209,Ensalada,5.0
+1209,Tarta de queso,3.5
+1210,Tarta de queso,3.5
+1210,Croissant,2.2
+1211,Smoothie,4.0
+1211,Café americano,2.5
+1211,Croissant,2.2
+1212,Té verde,2.8
+1212,Café con leche,3.0
+1213,Tarta de queso,3.5
+1213,Té verde,2.8
+1214,Capuchino,3.2
+1214,Tarta de queso,3.5
+1214,Croissant,2.2
+1215,Croissant,2.2
+1215,Ensalada,5.0
+1216,Café con leche,3.0
+1216,Capuchino,3.2
+1216,Tarta de queso,3.5
+1217,Croissant,2.2
+1217,Capuchino,3.2
+1217,Smoothie,4.0
+1218,Croissant,2.2
+1218,Sándwich,4.5
+1218,Smoothie,4.0
+1219,Croissant,2.2
+1219,Tarta de queso,3.5
+1219,Ensalada,5.0
+1220,Croissant,2.2
+1220,Té verde,2.8
+1220,Smoothie,4.0
+1221,Sándwich,4.5
+1221,Smoothie,4.0
+1221,Capuchino,3.2
+1222,Tarta de queso,3.5
+1222,Café americano,2.5
+1223,Café americano,2.5
+1224,Smoothie,4.0
+1224,Café americano,2.5
+1224,Capuchino,3.2
+1225,Croissant,2.2
+1226,Smoothie,4.0
+1227,Capuchino,3.2
+1228,Capuchino,3.2
+1228,Sándwich,4.5
+1229,Té verde,2.8
+1230,Café con leche,3.0
+1230,Tarta de queso,3.5
+1231,Café con leche,3.0
+1232,Capuchino,3.2
+1233,Café con leche,3.0
+1233,Smoothie,4.0
+1234,Tarta de queso,3.5
+1234,Café con leche,3.0
+1235,Croissant,2.2
+1235,Sándwich,4.5
+1235,Tarta de queso,3.5
+1236,Café con leche,3.0
+1236,Té verde,2.8
+1236,Croissant,2.2
+1237,Café americano,2.5
+1237,Tarta de queso,3.5
+1238,Croissant,2.2
+1238,Capuchino,3.2
+1238,Ensalada,5.0
+1239,Café americano,2.5
+1239,Tarta de queso,3.5
+1240,Sándwich,4.5
+1241,Tarta de queso,3.5
+1241,Capuchino,3.2
+1241,Café con leche,3.0
+1242,Café americano,2.5
+1242,Tarta de queso,3.5
+1242,Capuchino,3.2
+1243,Capuchino,3.2
+1243,Sándwich,4.5
+1243,Té verde,2.8
+1244,Té verde,2.8
+1245,Sándwich,4.5
+1245,Té verde,2.8
+1245,Café con leche,3.0
+1246,Croissant,2.2
+1246,Café con leche,3.0
+1247,Croissant,2.2
+1247,Sándwich,4.5
+1247,Café con leche,3.0
+1248,Café americano,2.5
+1248,Smoothie,4.0
+1248,Café con leche,3.0
+1249,Ensalada,5.0
+1249,Capuchino,3.2
+1250,Té verde,2.8
+1250,Sándwich,4.5
+1251,Café con leche,3.0
+1251,Sándwich,4.5
+1251,Croissant,2.2
+1252,Capuchino,3.2
+1252,Smoothie,4.0
+1253,Café con leche,3.0
+1253,Smoothie,4.0
+1253,Té verde,2.8
+1254,Sándwich,4.5
+1255,Smoothie,4.0
+1255,Ensalada,5.0
+1255,Sándwich,4.5
+1256,Café americano,2.5
+1256,Tarta de queso,3.5
+1257,Café americano,2.5
+1257,Smoothie,4.0
+1258,Smoothie,4.0
+1258,Café americano,2.5
+1259,Café con leche,3.0
+1259,Tarta de queso,3.5
+1260,Croissant,2.2
+1261,Tarta de queso,3.5
+1262,Café con leche,3.0
+1263,Sándwich,4.5
+1263,Café con leche,3.0
+1264,Ensalada,5.0
+1264,Café americano,2.5
+1265,Smoothie,4.0
+1265,Croissant,2.2
+1265,Té verde,2.8
+1266,Croissant,2.2
+1267,Smoothie,4.0
+1268,Sándwich,4.5
+1268,Smoothie,4.0
+1268,Tarta de queso,3.5
+1269,Tarta de queso,3.5
+1269,Café americano,2.5
+1269,Smoothie,4.0
+1270,Croissant,2.2
+1271,Café con leche,3.0
+1271,Tarta de queso,3.5
+1271,Smoothie,4.0
+1272,Té verde,2.8
+1273,Tarta de queso,3.5
+1273,Smoothie,4.0
+1273,Ensalada,5.0
+1274,Té verde,2.8
+1274,Capuchino,3.2
+1275,Té verde,2.8
+1276,Sándwich,4.5
+1276,Capuchino,3.2
+1276,Té verde,2.8
+1277,Capuchino,3.2
+1277,Sándwich,4.5
+1277,Ensalada,5.0
+1278,Café con leche,3.0
+1279,Capuchino,3.2
+1280,Tarta de queso,3.5
+1281,Smoothie,4.0
+1281,Capuchino,3.2
+1282,Capuchino,3.2
+1283,Smoothie,4.0
+1284,Té verde,2.8
+1284,Sándwich,4.5
+1284,Croissant,2.2
+1285,Ensalada,5.0
+1285,Capuchino,3.2
+1285,Smoothie,4.0
+1286,Capuchino,3.2
+1286,Tarta de queso,3.5
+1287,Té verde,2.8
+1288,Café americano,2.5
+1289,Té verde,2.8
+1289,Sándwich,4.5
+1290,Ensalada,5.0
+1290,Sándwich,4.5
+1291,Té verde,2.8
+1291,Tarta de queso,3.5
+1291,Sándwich,4.5
+1292,Tarta de queso,3.5
+1292,Croissant,2.2
+1292,Té verde,2.8
+1293,Sándwich,4.5
+1293,Café americano,2.5
+1293,Smoothie,4.0
+1294,Café americano,2.5
+1294,Té verde,2.8
+1295,Café americano,2.5
+1296,Café americano,2.5
+1296,Té verde,2.8
+1297,Smoothie,4.0
+1297,Sándwich,4.5
+1298,Café americano,2.5
+1298,Capuchino,3.2
+1298,Té verde,2.8
+1299,Sándwich,4.5
+1299,Café con leche,3.0
+1300,Sándwich,4.5
+1300,Capuchino,3.2
+1300,Té verde,2.8
+1301,Capuchino,3.2
+1301,Ensalada,5.0
+1301,Smoothie,4.0
+1302,Ensalada,5.0
+1302,Café con leche,3.0
+1303,Capuchino,3.2
+1303,Café con leche,3.0
+1304,Croissant,2.2
+1304,Café con leche,3.0
+1304,Smoothie,4.0
+1305,Sándwich,4.5
+1305,Capuchino,3.2
+1306,Capuchino,3.2
+1307,Capuchino,3.2
+1308,Café americano,2.5
+1309,Ensalada,5.0
+1309,Smoothie,4.0
+1309,Croissant,2.2
+1310,Té verde,2.8
+1310,Café americano,2.5
+1311,Ensalada,5.0
+1311,Sándwich,4.5
+1311,Tarta de queso,3.5
+1312,Ensalada,5.0
+1312,Té verde,2.8
+1313,Ensalada,5.0
+1313,Tarta de queso,3.5
+1313,Té verde,2.8
+1314,Té verde,2.8
+1314,Smoothie,4.0
+1315,Té verde,2.8
+1315,Café americano,2.5
+1316,Croissant,2.2
+1317,Smoothie,4.0
+1317,Croissant,2.2
+1318,Tarta de queso,3.5
+1318,Capuchino,3.2
+1318,Café con leche,3.0
+1319,Sándwich,4.5
+1319,Capuchino,3.2
+1320,Croissant,2.2
+1320,Café americano,2.5
+1321,Croissant,2.2
+1322,Tarta de queso,3.5
+1322,Café con leche,3.0
+1323,Smoothie,4.0
+1323,Croissant,2.2
+1323,Sándwich,4.5
+1324,Té verde,2.8
+1324,Café americano,2.5
+1324,Ensalada,5.0
+1325,Sándwich,4.5
+1325,Café con leche,3.0
+1325,Té verde,2.8
+1326,Smoothie,4.0
+1327,Smoothie,4.0
+1327,Croissant,2.2
+1328,Ensalada,5.0
+1328,Sándwich,4.5
+1329,Té verde,2.8
+1330,Café americano,2.5
+1331,Café con leche,3.0
+1331,Té verde,2.8
+1332,Tarta de queso,3.5
+1332,Café americano,2.5
+1333,Té verde,2.8
+1334,Smoothie,4.0
+1334,Sándwich,4.5
+1335,Sándwich,4.5
+1336,Café con leche,3.0
+1336,Croissant,2.2
+1337,Café americano,2.5
+1337,Capuchino,3.2
+1337,Café con leche,3.0
+1338,Ensalada,5.0
+1338,Sándwich,4.5
+1338,Tarta de queso,3.5
+1339,Capuchino,3.2
+1340,Sándwich,4.5
+1341,Tarta de queso,3.5
+1341,Café americano,2.5
+1342,Croissant,2.2
+1342,Café americano,2.5
+1343,Croissant,2.2
+1343,Café con leche,3.0
+1343,Ensalada,5.0
+1344,Tarta de queso,3.5
+1344,Capuchino,3.2
+1344,Smoothie,4.0
+1345,Café con leche,3.0
+1345,Smoothie,4.0
+1345,Croissant,2.2
+1346,Smoothie,4.0
+1347,Té verde,2.8
+1347,Croissant,2.2
+1348,Té verde,2.8
+1348,Smoothie,4.0
+1348,Café con leche,3.0
+1349,Té verde,2.8
+1350,Café americano,2.5
+1350,Ensalada,5.0
+1351,Croissant,2.2
+1352,Sándwich,4.5
+1353,Café con leche,3.0
+1353,Capuchino,3.2
+1354,Tarta de queso,3.5
+1354,Café con leche,3.0
+1355,Café con leche,3.0
+1355,Croissant,2.2
+1355,Té verde,2.8
+1356,Smoothie,4.0
+1356,Café americano,2.5
+1357,Té verde,2.8
+1357,Croissant,2.2
+1358,Sándwich,4.5
+1358,Croissant,2.2
+1359,Smoothie,4.0
+1359,Capuchino,3.2
+1360,Sándwich,4.5
+1360,Café con leche,3.0
+1361,Croissant,2.2
+1361,Smoothie,4.0
+1361,Café con leche,3.0
+1362,Té verde,2.8
+1363,Croissant,2.2
+1363,Ensalada,5.0
+1364,Café americano,2.5
+1365,Tarta de queso,3.5
+1366,Ensalada,5.0
+1366,Croissant,2.2
+1366,Capuchino,3.2
+1367,Sándwich,4.5
+1368,Ensalada,5.0
+1368,Capuchino,3.2
+1369,Ensalada,5.0
+1370,Ensalada,5.0
+1371,Capuchino,3.2
+1372,Croissant,2.2
+1373,Croissant,2.2
+1373,Sándwich,4.5
+1374,Ensalada,5.0
+1375,Capuchino,3.2
+1375,Smoothie,4.0
+1375,Tarta de queso,3.5
+1376,Sándwich,4.5
+1377,Café con leche,3.0
+1378,Smoothie,4.0
+1379,Tarta de queso,3.5
+1380,Capuchino,3.2
+1380,Ensalada,5.0
+1381,Tarta de queso,3.5
+1381,Sándwich,4.5
+1382,Té verde,2.8
+1382,Capuchino,3.2
+1383,Ensalada,5.0
+1383,Café con leche,3.0
+1384,Sándwich,4.5
+1384,Café con leche,3.0
+1385,Tarta de queso,3.5
+1386,Tarta de queso,3.5
+1386,Croissant,2.2
+1386,Té verde,2.8
+1387,Té verde,2.8
+1388,Café americano,2.5
+1388,Capuchino,3.2
+1388,Croissant,2.2
+1389,Tarta de queso,3.5
+1390,Té verde,2.8
+1390,Croissant,2.2
+1390,Capuchino,3.2
+1391,Smoothie,4.0
+1391,Tarta de queso,3.5
+1392,Café con leche,3.0
+1392,Café americano,2.5
+1393,Smoothie,4.0
+1393,Café americano,2.5
+1394,Café americano,2.5
+1394,Sándwich,4.5
+1395,Croissant,2.2
+1395,Café con leche,3.0
+1396,Té verde,2.8
+1396,Tarta de queso,3.5
+1397,Croissant,2.2
+1398,Tarta de queso,3.5
+1398,Té verde,2.8
+1399,Té verde,2.8
+1399,Tarta de queso,3.5
+1400,Tarta de queso,3.5
+1400,Capuchino,3.2
+1401,Capuchino,3.2
+1401,Sándwich,4.5
+1402,Capuchino,3.2
+1402,Ensalada,5.0
+1402,Croissant,2.2
+1403,Café con leche,3.0
+1403,Capuchino,3.2
+1404,Ensalada,5.0
+1405,Tarta de queso,3.5
+1405,Capuchino,3.2
+1405,Té verde,2.8
+1406,Ensalada,5.0
+1406,Tarta de queso,3.5
+1406,Capuchino,3.2
+1407,Café americano,2.5
+1407,Ensalada,5.0
+1407,Tarta de queso,3.5
+1408,Smoothie,4.0
+1408,Tarta de queso,3.5
+1408,Sándwich,4.5
+1409,Café americano,2.5
+1410,Café con leche,3.0
+1411,Café con leche,3.0
+1412,Smoothie,4.0
+1412,Ensalada,5.0
+1413,Café con leche,3.0
+1413,Té verde,2.8
+1414,Café con leche,3.0
+1414,Smoothie,4.0
+1414,Ensalada,5.0
+1415,Café americano,2.5
+1416,Ensalada,5.0
+1416,Croissant,2.2
+1417,Smoothie,4.0
+1417,Sándwich,4.5
+1418,Smoothie,4.0
+1419,Café americano,2.5
+1419,Ensalada,5.0
+1419,Smoothie,4.0
+1420,Smoothie,4.0
+1421,Smoothie,4.0
+1421,Ensalada,5.0
+1422,Smoothie,4.0
+1423,Smoothie,4.0
+1424,Café con leche,3.0
+1424,Capuchino,3.2
+1425,Ensalada,5.0
+1426,Té verde,2.8
+1426,Ensalada,5.0
+1427,Café americano,2.5
+1427,Croissant,2.2
+1428,Capuchino,3.2
+1428,Ensalada,5.0
+1429,Tarta de queso,3.5
+1429,Té verde,2.8
+1430,Capuchino,3.2
+1430,Té verde,2.8
+1430,Smoothie,4.0
+1431,Smoothie,4.0
+1431,Café con leche,3.0
+1432,Ensalada,5.0
+1433,Sándwich,4.5
+1433,Té verde,2.8
+1433,Ensalada,5.0
+1434,Smoothie,4.0
+1434,Capuchino,3.2
+1435,Smoothie,4.0
+1436,Croissant,2.2
+1437,Café americano,2.5
+1437,Café con leche,3.0
+1438,Tarta de queso,3.5
+1438,Smoothie,4.0
+1439,Café con leche,3.0
+1439,Smoothie,4.0
+1440,Té verde,2.8
+1441,Té verde,2.8
+1441,Croissant,2.2
+1442,Croissant,2.2
+1442,Café americano,2.5
+1443,Café americano,2.5
+1444,Ensalada,5.0
+1445,Smoothie,4.0
+1445,Té verde,2.8
+1445,Café americano,2.5
+1446,Té verde,2.8
+1446,Café con leche,3.0
+1447,Capuchino,3.2
+1447,Tarta de queso,3.5
+1448,Capuchino,3.2
+1448,Café con leche,3.0
+1449,Ensalada,5.0
+1450,Ensalada,5.0
+1451,Tarta de queso,3.5
+1451,Croissant,2.2
+1452,Smoothie,4.0
+1452,Café americano,2.5
+1452,Té verde,2.8
+1453,Smoothie,4.0
+1454,Ensalada,5.0
+1454,Café con leche,3.0
+1454,Té verde,2.8
+1455,Tarta de queso,3.5
+1455,Capuchino,3.2
+1455,Croissant,2.2
+1456,Tarta de queso,3.5
+1456,Té verde,2.8
+1456,Smoothie,4.0
+1457,Smoothie,4.0
+1458,Smoothie,4.0
+1459,Ensalada,5.0
+1459,Capuchino,3.2
+1460,Café americano,2.5
+1460,Tarta de queso,3.5
+1460,Capuchino,3.2
+1461,Tarta de queso,3.5
+1461,Café americano,2.5
+1461,Smoothie,4.0
+1462,Ensalada,5.0
+1463,Café con leche,3.0
+1463,Té verde,2.8
+1463,Café americano,2.5
+1464,Café con leche,3.0
+1464,Croissant,2.2
+1464,Capuchino,3.2
+1465,Café con leche,3.0
+1465,Croissant,2.2
+1466,Café con leche,3.0
+1466,Ensalada,5.0
+1466,Tarta de queso,3.5
+1467,Capuchino,3.2
+1468,Té verde,2.8
+1468,Smoothie,4.0
+1468,Croissant,2.2
+1469,Croissant,2.2
+1469,Ensalada,5.0
+1470,Té verde,2.8
+1470,Capuchino,3.2
+1470,Café americano,2.5
+1471,Té verde,2.8
+1472,Sándwich,4.5
+1472,Smoothie,4.0
+1472,Té verde,2.8
+1473,Ensalada,5.0
+1473,Café americano,2.5
+1473,Sándwich,4.5
+1474,Café americano,2.5
+1474,Tarta de queso,3.5
+1475,Sándwich,4.5
+1475,Ensalada,5.0
+1475,Croissant,2.2
+1476,Té verde,2.8
+1476,Café con leche,3.0
+1476,Café americano,2.5
+1477,Café americano,2.5
+1477,Ensalada,5.0
+1477,Smoothie,4.0
+1478,Capuchino,3.2
+1479,Smoothie,4.0
+1479,Café con leche,3.0
+1479,Té verde,2.8
+1480,Café con leche,3.0
+1480,Sándwich,4.5
+1481,Té verde,2.8
+1481,Café con leche,3.0
+1482,Tarta de queso,3.5
+1482,Croissant,2.2
+1482,Café americano,2.5
+1483,Capuchino,3.2
+1483,Croissant,2.2
+1483,Tarta de queso,3.5
+1484,Café americano,2.5
+1484,Capuchino,3.2
+1484,Ensalada,5.0
+1485,Tarta de queso,3.5
+1485,Capuchino,3.2
+1486,Ensalada,5.0
+1486,Té verde,2.8
+1487,Café con leche,3.0
+1487,Tarta de queso,3.5
+1487,Ensalada,5.0
+1488,Café con leche,3.0
+1489,Café con leche,3.0
+1489,Smoothie,4.0
+1489,Té verde,2.8
+1490,Ensalada,5.0
+1491,Smoothie,4.0
+1491,Ensalada,5.0
+1491,Té verde,2.8
+1492,Café americano,2.5
+1493,Café con leche,3.0
+1493,Smoothie,4.0
+1494,Té verde,2.8
+1494,Sándwich,4.5
+1495,Café con leche,3.0
+1495,Croissant,2.2
+1495,Tarta de queso,3.5
+1496,Té verde,2.8
+1496,Ensalada,5.0
+1497,Smoothie,4.0
+1498,Capuchino,3.2
+1498,Ensalada,5.0
+1499,Café americano,2.5
+1500,Té verde,2.8
+1500,Tarta de queso,3.5
+1500,Capuchino,3.2
+1501,Ensalada,5.0
+1502,Sándwich,4.5
+1502,Capuchino,3.2
+1502,Café con leche,3.0
+1503,Café con leche,3.0
+1503,Sándwich,4.5
+1503,Ensalada,5.0
+1504,Croissant,2.2
+1505,Croissant,2.2
+1505,Té verde,2.8
+1505,Tarta de queso,3.5
+1506,Té verde,2.8
+1506,Tarta de queso,3.5
+1506,Ensalada,5.0
+1507,Café con leche,3.0
+1507,Ensalada,5.0
+1507,Smoothie,4.0
+1508,Capuchino,3.2
+1508,Té verde,2.8
+1509,Tarta de queso,3.5
+1510,Té verde,2.8
+1511,Té verde,2.8
+1511,Croissant,2.2
+1512,Café americano,2.5
+1513,Ensalada,5.0
+1513,Sándwich,4.5
+1514,Té verde,2.8
+1514,Smoothie,4.0
+1515,Capuchino,3.2
+1516,Té verde,2.8
+1517,Ensalada,5.0
+1517,Té verde,2.8
+1517,Smoothie,4.0
+1518,Café americano,2.5
+1519,Té verde,2.8
+1519,Sándwich,4.5
+1519,Capuchino,3.2
+1520,Capuchino,3.2
+1520,Café americano,2.5
+1521,Ensalada,5.0
+1521,Café americano,2.5
+1521,Té verde,2.8
+1522,Café con leche,3.0
+1522,Ensalada,5.0
+1523,Café americano,2.5
+1523,Tarta de queso,3.5
+1524,Smoothie,4.0
+1524,Té verde,2.8
+1524,Croissant,2.2
+1525,Smoothie,4.0
+1525,Capuchino,3.2
+1525,Croissant,2.2
+1526,Café americano,2.5
+1526,Ensalada,5.0
+1527,Tarta de queso,3.5
+1527,Capuchino,3.2
+1528,Ensalada,5.0
+1529,Café con leche,3.0
+1529,Tarta de queso,3.5
+1529,Croissant,2.2
+1530,Tarta de queso,3.5
+1530,Smoothie,4.0
+1531,Té verde,2.8
+1531,Café con leche,3.0
+1531,Smoothie,4.0
+1532,Café americano,2.5
+1532,Croissant,2.2
+1532,Sándwich,4.5
+1533,Café americano,2.5
+1533,Croissant,2.2
+1533,Capuchino,3.2
+1534,Café con leche,3.0
+1534,Té verde,2.8
+1535,Sándwich,4.5
+1535,Café con leche,3.0
+1536,Té verde,2.8
+1537,Croissant,2.2
+1537,Sándwich,4.5
+1537,Capuchino,3.2
+1538,Café americano,2.5
+1539,Ensalada,5.0
+1539,Café con leche,3.0
+1540,Sándwich,4.5
+1540,Smoothie,4.0
+1541,Café con leche,3.0
+1541,Té verde,2.8
+1541,Ensalada,5.0
+1542,Capuchino,3.2
+1543,Café con leche,3.0
+1544,Capuchino,3.2
+1544,Ensalada,5.0
+1545,Café americano,2.5
+1546,Sándwich,4.5
+1546,Capuchino,3.2
+1547,Café americano,2.5
+1547,Smoothie,4.0
+1547,Café con leche,3.0
+1548,Té verde,2.8
+1548,Croissant,2.2
+1548,Sándwich,4.5
+1549,Croissant,2.2
+1550,Sándwich,4.5
+1551,Smoothie,4.0
+1552,Smoothie,4.0
+1553,Ensalada,5.0
+1553,Croissant,2.2
+1553,Capuchino,3.2
+1554,Croissant,2.2
+1554,Smoothie,4.0
+1555,Capuchino,3.2
+1555,Smoothie,4.0
+1555,Café con leche,3.0
+1556,Capuchino,3.2
+1556,Sándwich,4.5
+1556,Café con leche,3.0
+1557,Capuchino,3.2
+1557,Ensalada,5.0
+1557,Sándwich,4.5
+1558,Café americano,2.5
+1558,Croissant,2.2
+1558,Capuchino,3.2
+1559,Capuchino,3.2
+1559,Smoothie,4.0
+1560,Ensalada,5.0
+1561,Croissant,2.2
+1562,Sándwich,4.5
+1562,Croissant,2.2
+1562,Ensalada,5.0
+1563,Smoothie,4.0
+1563,Capuchino,3.2
+1563,Tarta de queso,3.5
+1564,Ensalada,5.0
+1564,Croissant,2.2
+1564,Sándwich,4.5
+1565,Café americano,2.5
+1565,Capuchino,3.2
+1565,Croissant,2.2
+1566,Tarta de queso,3.5
+1567,Croissant,2.2
+1568,Té verde,2.8
+1568,Sándwich,4.5
+1568,Tarta de queso,3.5
+1569,Café americano,2.5
+1569,Café con leche,3.0
+1570,Café con leche,3.0
+1570,Tarta de queso,3.5
+1571,Sándwich,4.5
+1572,Croissant,2.2
+1572,Tarta de queso,3.5
+1573,Croissant,2.2
+1573,Tarta de queso,3.5
+1574,Croissant,2.2
+1575,Sándwich,4.5
+1575,Café con leche,3.0
+1575,Ensalada,5.0
+1576,Tarta de queso,3.5
+1577,Tarta de queso,3.5
+1577,Sándwich,4.5
+1578,Café con leche,3.0
+1578,Capuchino,3.2
+1579,Sándwich,4.5
+1579,Croissant,2.2
+1579,Café americano,2.5
+1580,Tarta de queso,3.5
+1580,Café con leche,3.0
+1581,Smoothie,4.0
+1581,Tarta de queso,3.5
+1582,Capuchino,3.2
+1583,Smoothie,4.0
+1584,Smoothie,4.0
+1585,Sándwich,4.5
+1585,Ensalada,5.0
+1585,Café con leche,3.0
+1586,Smoothie,4.0
+1586,Sándwich,4.5
+1587,Ensalada,5.0
+1587,Café con leche,3.0
+1587,Croissant,2.2
+1588,Capuchino,3.2
+1589,Té verde,2.8
+1589,Café americano,2.5
+1589,Ensalada,5.0
+1590,Café con leche,3.0
+1590,Croissant,2.2
+1591,Smoothie,4.0
+1591,Ensalada,5.0
+1591,Croissant,2.2
+1592,Café americano,2.5
+1593,Café americano,2.5
+1593,Capuchino,3.2
+1594,Capuchino,3.2
+1595,Croissant,2.2
+1596,Croissant,2.2
+1597,Café con leche,3.0
+1597,Té verde,2.8
+1597,Tarta de queso,3.5
+1598,Capuchino,3.2
+1598,Croissant,2.2
+1598,Tarta de queso,3.5
+1599,Smoothie,4.0
+1600,Croissant,2.2
+1601,Capuchino,3.2
+1601,Café americano,2.5
+1601,Café con leche,3.0
+1602,Ensalada,5.0
+1602,Tarta de queso,3.5
+1603,Café con leche,3.0
+1603,Té verde,2.8
+1604,Té verde,2.8
+1605,Sándwich,4.5
+1605,Café con leche,3.0
+1606,Café con leche,3.0
+1606,Capuchino,3.2
+1607,Smoothie,4.0
+1607,Croissant,2.2
+1608,Sándwich,4.5
+1608,Croissant,2.2
+1608,Café con leche,3.0
+1609,Café con leche,3.0
+1609,Té verde,2.8
+1610,Té verde,2.8
+1611,Café con leche,3.0
+1611,Tarta de queso,3.5
+1611,Croissant,2.2
+1612,Café americano,2.5
+1612,Ensalada,5.0
+1613,Café con leche,3.0
+1613,Café americano,2.5
+1614,Café americano,2.5
+1615,Café americano,2.5
+1616,Café con leche,3.0
+1616,Sándwich,4.5
+1616,Smoothie,4.0
+1617,Capuchino,3.2
+1618,Capuchino,3.2
+1619,Croissant,2.2
+1620,Té verde,2.8
+1620,Café con leche,3.0
+1620,Café americano,2.5
+1621,Sándwich,4.5
+1622,Smoothie,4.0
+1623,Café americano,2.5
+1623,Café con leche,3.0
+1623,Ensalada,5.0
+1624,Ensalada,5.0
+1624,Croissant,2.2
+1624,Sándwich,4.5
+1625,Café con leche,3.0
+1626,Tarta de queso,3.5
+1627,Tarta de queso,3.5
+1627,Café con leche,3.0
+1628,Ensalada,5.0
+1628,Café con leche,3.0
+1628,Smoothie,4.0
+1629,Smoothie,4.0
+1629,Café americano,2.5
+1630,Tarta de queso,3.5
+1631,Smoothie,4.0
+1631,Ensalada,5.0
+1632,Tarta de queso,3.5
+1632,Té verde,2.8
+1633,Ensalada,5.0
+1633,Croissant,2.2
+1634,Ensalada,5.0
+1634,Café con leche,3.0
+1635,Café con leche,3.0
+1636,Café con leche,3.0
+1637,Capuchino,3.2
+1638,Croissant,2.2
+1639,Tarta de queso,3.5
+1639,Café con leche,3.0
+1639,Ensalada,5.0
+1640,Smoothie,4.0
+1640,Sándwich,4.5
+1641,Tarta de queso,3.5
+1642,Tarta de queso,3.5
+1642,Ensalada,5.0
+1643,Ensalada,5.0
+1643,Café con leche,3.0
+1644,Té verde,2.8
+1644,Capuchino,3.2
+1644,Café americano,2.5
+1645,Café con leche,3.0
+1646,Capuchino,3.2
+1646,Tarta de queso,3.5
+1647,Smoothie,4.0
+1647,Café con leche,3.0
+1648,Sándwich,4.5
+1648,Ensalada,5.0
+1649,Ensalada,5.0
+1649,Sándwich,4.5
+1650,Sándwich,4.5
+1650,Café americano,2.5
+1651,Tarta de queso,3.5
+1652,Ensalada,5.0
+1653,Ensalada,5.0
+1653,Café americano,2.5
+1654,Smoothie,4.0
+1654,Capuchino,3.2
+1655,Tarta de queso,3.5
+1656,Ensalada,5.0
+1656,Sándwich,4.5
+1656,Té verde,2.8
+1657,Café americano,2.5
+1658,Tarta de queso,3.5
+1659,Smoothie,4.0
+1659,Croissant,2.2
+1659,Café americano,2.5
+1660,Croissant,2.2
+1660,Sándwich,4.5
+1661,Croissant,2.2
+1662,Croissant,2.2
+1662,Tarta de queso,3.5
+1663,Té verde,2.8
+1664,Café con leche,3.0
+1665,Smoothie,4.0
+1665,Café con leche,3.0
+1665,Capuchino,3.2
+1666,Café americano,2.5
+1666,Ensalada,5.0
+1667,Sándwich,4.5
+1668,Ensalada,5.0
+1669,Tarta de queso,3.5
+1670,Ensalada,5.0
+1670,Café con leche,3.0
+1671,Ensalada,5.0
+1671,Croissant,2.2
+1672,Tarta de queso,3.5
+1673,Café con leche,3.0
+1674,Smoothie,4.0
+1674,Sándwich,4.5
+1675,Tarta de queso,3.5
+1675,Té verde,2.8
+1676,Café con leche,3.0
+1676,Croissant,2.2
+1677,Sándwich,4.5
+1677,Ensalada,5.0
+1678,Café con leche,3.0
+1678,Smoothie,4.0
+1679,Sándwich,4.5
+1679,Croissant,2.2
+1679,Café con leche,3.0
+1680,Sándwich,4.5
+1680,Ensalada,5.0
+1681,Café americano,2.5
+1681,Capuchino,3.2
+1682,Ensalada,5.0
+1683,Tarta de queso,3.5
+1683,Café americano,2.5
+1683,Smoothie,4.0
+1684,Té verde,2.8
+1685,Smoothie,4.0
+1686,Café con leche,3.0
+1686,Té verde,2.8
+1687,Smoothie,4.0
+1688,Té verde,2.8
+1688,Tarta de queso,3.5
+1688,Café con leche,3.0
+1689,Té verde,2.8
+1689,Smoothie,4.0
+1690,Tarta de queso,3.5
+1690,Sándwich,4.5
+1690,Croissant,2.2
+1691,Smoothie,4.0
+1691,Capuchino,3.2
+1691,Café americano,2.5
+1692,Sándwich,4.5
+1693,Ensalada,5.0
+1693,Café americano,2.5
+1694,Croissant,2.2
+1694,Smoothie,4.0
+1695,Tarta de queso,3.5
+1696,Café con leche,3.0
+1697,Capuchino,3.2
+1697,Té verde,2.8
+1698,Café con leche,3.0
+1698,Smoothie,4.0
+1698,Té verde,2.8
+1699,Café con leche,3.0
+1699,Croissant,2.2
+1700,Tarta de queso,3.5
+1700,Té verde,2.8
+1701,Café con leche,3.0
+1702,Ensalada,5.0
+1702,Tarta de queso,3.5
+1703,Ensalada,5.0
+1704,Café con leche,3.0
+1704,Croissant,2.2
+1705,Té verde,2.8
+1706,Capuchino,3.2
+1706,Croissant,2.2
+1707,Smoothie,4.0
+1707,Café americano,2.5
+1707,Croissant,2.2
+1708,Café americano,2.5
+1709,Té verde,2.8
+1710,Croissant,2.2
+1710,Café con leche,3.0
+1710,Smoothie,4.0
+1711,Tarta de queso,3.5
+1712,Smoothie,4.0
+1712,Sándwich,4.5
+1713,Té verde,2.8
+1714,Capuchino,3.2
+1714,Ensalada,5.0
+1715,Tarta de queso,3.5
+1715,Café americano,2.5
+1716,Ensalada,5.0
+1716,Sándwich,4.5
+1717,Croissant,2.2
+1718,Café con leche,3.0
+1718,Capuchino,3.2
+1718,Croissant,2.2
+1719,Tarta de queso,3.5
+1719,Croissant,2.2
+1719,Té verde,2.8
+1720,Capuchino,3.2
+1720,Ensalada,5.0
+1720,Tarta de queso,3.5
+1721,Té verde,2.8
+1722,Café con leche,3.0
+1723,Capuchino,3.2
+1723,Tarta de queso,3.5
+1723,Ensalada,5.0
+1724,Capuchino,3.2
+1724,Smoothie,4.0
+1725,Croissant,2.2
+1725,Smoothie,4.0
+1726,Capuchino,3.2
+1726,Tarta de queso,3.5
+1727,Té verde,2.8
+1727,Café americano,2.5
+1728,Té verde,2.8
+1729,Té verde,2.8
+1729,Smoothie,4.0
+1730,Tarta de queso,3.5
+1730,Sándwich,4.5
+1731,Croissant,2.2
+1731,Capuchino,3.2
+1732,Sándwich,4.5
+1732,Tarta de queso,3.5
+1732,Ensalada,5.0
+1733,Ensalada,5.0
+1733,Café con leche,3.0
+1734,Smoothie,4.0
+1734,Sándwich,4.5
+1734,Croissant,2.2
+1735,Té verde,2.8
+1735,Sándwich,4.5
+1735,Tarta de queso,3.5
+1736,Tarta de queso,3.5
+1736,Capuchino,3.2
+1736,Té verde,2.8
+1737,Smoothie,4.0
+1737,Té verde,2.8
+1738,Croissant,2.2
+1738,Ensalada,5.0
+1739,Croissant,2.2
+1739,Tarta de queso,3.5
+1740,Tarta de queso,3.5
+1740,Smoothie,4.0
+1740,Café americano,2.5
+1741,Croissant,2.2
+1742,Croissant,2.2
+1742,Café americano,2.5
+1742,Ensalada,5.0
+1743,Smoothie,4.0
+1743,Tarta de queso,3.5
+1744,Sándwich,4.5
+1744,Café americano,2.5
+1745,Sándwich,4.5
+1746,Ensalada,5.0
+1747,Sándwich,4.5
+1747,Tarta de queso,3.5
+1748,Café americano,2.5
+1748,Capuchino,3.2
+1748,Té verde,2.8
+1749,Croissant,2.2
+1750,Smoothie,4.0
+1750,Sándwich,4.5
+1751,Capuchino,3.2
+1751,Croissant,2.2
+1752,Capuchino,3.2
+1752,Ensalada,5.0
+1753,Té verde,2.8
+1754,Capuchino,3.2
+1755,Ensalada,5.0
+1755,Café americano,2.5
+1755,Té verde,2.8
+1756,Ensalada,5.0
+1756,Sándwich,4.5
+1756,Té verde,2.8
+1757,Capuchino,3.2
+1757,Café con leche,3.0
+1758,Smoothie,4.0
+1758,Capuchino,3.2
+1758,Tarta de queso,3.5
+1759,Smoothie,4.0
+1759,Té verde,2.8
+1759,Sándwich,4.5
+1760,Capuchino,3.2
+1761,Café con leche,3.0
+1761,Croissant,2.2
+1762,Café con leche,3.0
+1762,Tarta de queso,3.5
+1763,Café con leche,3.0
+1764,Café con leche,3.0
+1764,Ensalada,5.0
+1765,Ensalada,5.0
+1765,Smoothie,4.0
+1765,Sándwich,4.5
+1766,Café americano,2.5
+1766,Ensalada,5.0
+1766,Capuchino,3.2
+1767,Capuchino,3.2
+1767,Té verde,2.8
+1768,Smoothie,4.0
+1768,Croissant,2.2
+1769,Sándwich,4.5
+1769,Tarta de queso,3.5
+1770,Té verde,2.8
+1770,Tarta de queso,3.5
+1770,Café americano,2.5
+1771,Tarta de queso,3.5
+1771,Sándwich,4.5
+1772,Capuchino,3.2
+1772,Café con leche,3.0
+1772,Sándwich,4.5
+1773,Smoothie,4.0
+1773,Capuchino,3.2
+1774,Croissant,2.2
+1775,Tarta de queso,3.5
+1776,Tarta de queso,3.5
+1776,Café con leche,3.0
+1776,Sándwich,4.5
+1777,Capuchino,3.2
+1777,Tarta de queso,3.5
+1777,Croissant,2.2
+1778,Croissant,2.2
+1778,Ensalada,5.0
+1778,Sándwich,4.5
+1779,Capuchino,3.2
+1780,Sándwich,4.5
+1780,Café con leche,3.0
+1781,Ensalada,5.0
+1781,Smoothie,4.0
+1781,Café con leche,3.0
+1782,Smoothie,4.0
+1782,Té verde,2.8
+1783,Café americano,2.5
+1783,Café con leche,3.0
+1784,Sándwich,4.5
+1784,Tarta de queso,3.5
+1784,Té verde,2.8
+1785,Smoothie,4.0
+1786,Sándwich,4.5
+1786,Café americano,2.5
+1787,Capuchino,3.2
+1787,Sándwich,4.5
+1788,Tarta de queso,3.5
+1789,Ensalada,5.0
+1790,Smoothie,4.0
+1791,Capuchino,3.2
+1791,Té verde,2.8
+1792,Smoothie,4.0
+1792,Café con leche,3.0
+1792,Té verde,2.8
+1793,Café con leche,3.0
+1793,Café americano,2.5
+1793,Sándwich,4.5
+1794,Tarta de queso,3.5
+1794,Ensalada,5.0
+1794,Capuchino,3.2
+1795,Croissant,2.2
+1795,Tarta de queso,3.5
+1796,Capuchino,3.2
+1797,Café americano,2.5
+1797,Té verde,2.8
+1797,Tarta de queso,3.5
+1798,Capuchino,3.2
+1799,Sándwich,4.5
+1800,Ensalada,5.0
+1801,Café con leche,3.0
+1801,Capuchino,3.2
+1802,Ensalada,5.0
+1802,Sándwich,4.5
+1803,Té verde,2.8
+1804,Tarta de queso,3.5
+1805,Tarta de queso,3.5
+1805,Sándwich,4.5
+1806,Sándwich,4.5
+1807,Tarta de queso,3.5
+1807,Ensalada,5.0
+1808,Ensalada,5.0
+1808,Té verde,2.8
+1808,Croissant,2.2
+1809,Croissant,2.2
+1810,Tarta de queso,3.5
+1810,Ensalada,5.0
+1811,Croissant,2.2
+1812,Capuchino,3.2
+1812,Smoothie,4.0
+1813,Ensalada,5.0
+1814,Croissant,2.2
+1814,Ensalada,5.0
+1814,Café con leche,3.0
+1815,Tarta de queso,3.5
+1815,Sándwich,4.5
+1815,Ensalada,5.0
+1816,Croissant,2.2
+1817,Capuchino,3.2
+1817,Té verde,2.8
+1817,Sándwich,4.5
+1818,Ensalada,5.0
+1818,Capuchino,3.2
+1819,Ensalada,5.0
+1820,Ensalada,5.0
+1820,Smoothie,4.0
+1821,Café americano,2.5
+1821,Croissant,2.2
+1822,Capuchino,3.2
+1822,Sándwich,4.5
+1822,Tarta de queso,3.5
+1823,Café con leche,3.0
+1823,Croissant,2.2
+1823,Té verde,2.8
+1824,Sándwich,4.5
+1824,Té verde,2.8
+1825,Croissant,2.2
+1825,Café americano,2.5
+1826,Capuchino,3.2
+1826,Café con leche,3.0
+1826,Croissant,2.2
+1827,Ensalada,5.0
+1827,Café con leche,3.0
+1827,Café americano,2.5
+1828,Café con leche,3.0
+1828,Café americano,2.5
+1828,Smoothie,4.0
+1829,Té verde,2.8
+1829,Croissant,2.2
+1830,Ensalada,5.0
+1830,Sándwich,4.5
+1831,Croissant,2.2
+1831,Sándwich,4.5
+1831,Tarta de queso,3.5
+1832,Ensalada,5.0
+1832,Tarta de queso,3.5
+1832,Sándwich,4.5
+1833,Ensalada,5.0
+1834,Café con leche,3.0
+1834,Smoothie,4.0
+1835,Croissant,2.2
+1835,Té verde,2.8
+1836,Tarta de queso,3.5
+1836,Té verde,2.8
+1836,Café con leche,3.0
+1837,Tarta de queso,3.5
+1838,Sándwich,4.5
+1838,Croissant,2.2
+1838,Café americano,2.5
+1839,Sándwich,4.5
+1839,Café con leche,3.0
+1839,Café americano,2.5
+1840,Capuchino,3.2
+1840,Tarta de queso,3.5
+1840,Café americano,2.5
+1841,Capuchino,3.2
+1842,Sándwich,4.5
+1842,Smoothie,4.0
+1843,Sándwich,4.5
+1843,Smoothie,4.0
+1843,Croissant,2.2
+1844,Café americano,2.5
+1844,Smoothie,4.0
+1845,Capuchino,3.2
+1846,Té verde,2.8
+1847,Ensalada,5.0
+1848,Tarta de queso,3.5
+1848,Té verde,2.8
+1849,Sándwich,4.5
+1849,Croissant,2.2
+1849,Té verde,2.8
+1850,Capuchino,3.2
+1850,Smoothie,4.0
+1851,Smoothie,4.0
+1851,Croissant,2.2
+1851,Tarta de queso,3.5
+1852,Sándwich,4.5
+1852,Smoothie,4.0
+1852,Café con leche,3.0
+1853,Tarta de queso,3.5
+1854,Café americano,2.5
+1855,Sándwich,4.5
+1856,Café con leche,3.0
+1857,Café americano,2.5
+1857,Ensalada,5.0
+1857,Capuchino,3.2
+1858,Sándwich,4.5
+1858,Té verde,2.8
+1859,Capuchino,3.2
+1859,Tarta de queso,3.5
+1860,Croissant,2.2
+1861,Croissant,2.2
+1862,Tarta de queso,3.5
+1862,Sándwich,4.5
+1862,Café americano,2.5
+1863,Capuchino,3.2
+1864,Croissant,2.2
+1865,Sándwich,4.5
+1865,Tarta de queso,3.5
+1865,Ensalada,5.0
+1866,Tarta de queso,3.5
+1866,Ensalada,5.0
+1867,Tarta de queso,3.5
+1868,Capuchino,3.2
+1868,Ensalada,5.0
+1868,Croissant,2.2
+1869,Sándwich,4.5
+1869,Café con leche,3.0
+1870,Capuchino,3.2
+1870,Croissant,2.2
+1870,Café americano,2.5
+1871,Café con leche,3.0
+1871,Croissant,2.2
+1872,Capuchino,3.2
+1872,Café con leche,3.0
+1873,Smoothie,4.0
+1873,Sándwich,4.5
+1873,Té verde,2.8
+1874,Tarta de queso,3.5
+1875,Smoothie,4.0
+1875,Té verde,2.8
+1876,Café americano,2.5
+1876,Café con leche,3.0
+1877,Café americano,2.5
+1878,Ensalada,5.0
+1878,Croissant,2.2
+1879,Capuchino,3.2
+1880,Ensalada,5.0
+1880,Sándwich,4.5
+1881,Croissant,2.2
+1881,Café con leche,3.0
+1881,Tarta de queso,3.5
+1882,Tarta de queso,3.5
+1882,Té verde,2.8
+1883,Café americano,2.5
+1883,Ensalada,5.0
+1884,Capuchino,3.2
+1884,Café americano,2.5
+1885,Smoothie,4.0
+1886,Sándwich,4.5
+1887,Sándwich,4.5
+1887,Café americano,2.5
+1888,Ensalada,5.0
+1888,Café americano,2.5
+1889,Capuchino,3.2
+1889,Café americano,2.5
+1890,Ensalada,5.0
+1890,Café con leche,3.0
+1891,Tarta de queso,3.5
+1892,Café americano,2.5
+1892,Croissant,2.2
+1893,Sándwich,4.5
+1893,Croissant,2.2
+1894,Café con leche,3.0
+1894,Capuchino,3.2
+1894,Ensalada,5.0
+1895,Café con leche,3.0
+1895,Capuchino,3.2
+1895,Ensalada,5.0
+1896,Café americano,2.5
+1896,Croissant,2.2
+1897,Smoothie,4.0
+1898,Tarta de queso,3.5
+1899,Café con leche,3.0
+1899,Café americano,2.5
+1900,Té verde,2.8
+1900,Ensalada,5.0
+1901,Café con leche,3.0
+1902,Sándwich,4.5
+1902,Tarta de queso,3.5
+1902,Café americano,2.5
+1903,Té verde,2.8
+1903,Café americano,2.5
+1904,Café con leche,3.0
+1905,Capuchino,3.2
+1906,Café con leche,3.0
+1907,Capuchino,3.2
+1907,Croissant,2.2
+1908,Té verde,2.8
+1909,Sándwich,4.5
+1909,Ensalada,5.0
+1909,Café americano,2.5
+1910,Smoothie,4.0
+1911,Café americano,2.5
+1911,Ensalada,5.0
+1911,Capuchino,3.2
+1912,Tarta de queso,3.5
+1912,Croissant,2.2
+1912,Sándwich,4.5
+1913,Sándwich,4.5
+1914,Sándwich,4.5
+1915,Tarta de queso,3.5
+1915,Café con leche,3.0
+1915,Sándwich,4.5
+1916,Smoothie,4.0
+1917,Sándwich,4.5
+1917,Croissant,2.2
+1917,Ensalada,5.0
+1918,Ensalada,5.0
+1918,Smoothie,4.0
+1919,Croissant,2.2
+1919,Té verde,2.8
+1920,Café americano,2.5
+1921,Café americano,2.5
+1921,Ensalada,5.0
+1921,Sándwich,4.5
+1922,Tarta de queso,3.5
+1923,Ensalada,5.0
+1923,Tarta de queso,3.5
+1923,Smoothie,4.0
+1924,Café con leche,3.0
+1924,Café americano,2.5
+1924,Tarta de queso,3.5
+1925,Café con leche,3.0
+1926,Croissant,2.2
+1927,Café americano,2.5
+1927,Café con leche,3.0
+1928,Ensalada,5.0
+1929,Smoothie,4.0
+1929,Croissant,2.2
+1930,Smoothie,4.0
+1930,Té verde,2.8
+1931,Croissant,2.2
+1931,Café americano,2.5
+1932,Té verde,2.8
+1932,Café americano,2.5
+1932,Café con leche,3.0
+1933,Café con leche,3.0
+1934,Sándwich,4.5
+1934,Té verde,2.8
+1935,Capuchino,3.2
+1935,Café con leche,3.0
+1935,Smoothie,4.0
+1936,Smoothie,4.0
+1936,Té verde,2.8
+1937,Smoothie,4.0
+1937,Té verde,2.8
+1938,Sándwich,4.5
+1938,Smoothie,4.0
+1939,Café americano,2.5
+1939,Tarta de queso,3.5
+1939,Croissant,2.2
+1940,Croissant,2.2
+1941,Smoothie,4.0
+1942,Ensalada,5.0
+1943,Té verde,2.8
+1943,Café americano,2.5
+1943,Capuchino,3.2
+1944,Croissant,2.2
+1944,Café americano,2.5
+1945,Café americano,2.5
+1946,Tarta de queso,3.5
+1946,Café con leche,3.0
+1946,Ensalada,5.0
+1947,Café con leche,3.0
+1947,Sándwich,4.5
+1947,Café americano,2.5
+1948,Croissant,2.2
+1948,Smoothie,4.0
+1948,Café con leche,3.0
+1949,Croissant,2.2
+1949,Café americano,2.5
+1950,Té verde,2.8
+1950,Café con leche,3.0
+1951,Café con leche,3.0
+1951,Ensalada,5.0
+1951,Smoothie,4.0
+1952,Café americano,2.5
+1953,Café con leche,3.0
+1954,Ensalada,5.0
+1954,Café americano,2.5
+1954,Capuchino,3.2
+1955,Café con leche,3.0
+1955,Café americano,2.5
+1955,Smoothie,4.0
+1956,Tarta de queso,3.5
+1956,Café con leche,3.0
+1956,Smoothie,4.0
+1957,Café americano,2.5
+1957,Ensalada,5.0
+1957,Té verde,2.8
+1958,Café con leche,3.0
+1959,Café americano,2.5
+1959,Ensalada,5.0
+1959,Smoothie,4.0
+1960,Café con leche,3.0
+1960,Café americano,2.5
+1960,Smoothie,4.0
+1961,Té verde,2.8
+1961,Capuchino,3.2
+1962,Tarta de queso,3.5
+1962,Ensalada,5.0
+1963,Té verde,2.8
+1964,Capuchino,3.2
+1965,Croissant,2.2
+1965,Smoothie,4.0
+1965,Ensalada,5.0
+1966,Capuchino,3.2
+1966,Ensalada,5.0
+1967,Croissant,2.2
+1968,Capuchino,3.2
+1968,Café americano,2.5
+1969,Sándwich,4.5
+1969,Café americano,2.5
+1969,Té verde,2.8
+1970,Té verde,2.8
+1971,Ensalada,5.0
+1971,Sándwich,4.5
+1972,Croissant,2.2
+1972,Smoothie,4.0
+1972,Té verde,2.8
+1973,Café americano,2.5
+1973,Ensalada,5.0
+1974,Té verde,2.8
+1975,Té verde,2.8
+1976,Croissant,2.2
+1977,Tarta de queso,3.5
+1977,Capuchino,3.2
+1978,Café americano,2.5
+1978,Café con leche,3.0
+1978,Capuchino,3.2
+1979,Smoothie,4.0
+1979,Ensalada,5.0
+1979,Café con leche,3.0
+1980,Croissant,2.2
+1980,Café americano,2.5
+1980,Ensalada,5.0
+1981,Té verde,2.8
+1982,Croissant,2.2
+1983,Té verde,2.8
+1983,Café americano,2.5
+1983,Café con leche,3.0
+1984,Café americano,2.5
+1985,Café con leche,3.0
+1985,Croissant,2.2
+1985,Sándwich,4.5
+1986,Croissant,2.2
+1986,Capuchino,3.2
+1986,Smoothie,4.0
+1987,Tarta de queso,3.5
+1987,Café con leche,3.0
+1988,Capuchino,3.2
+1989,Tarta de queso,3.5
+1990,Tarta de queso,3.5
+1990,Té verde,2.8
+1991,Té verde,2.8
+1991,Smoothie,4.0
+1992,Café americano,2.5
+1992,Smoothie,4.0
+1992,Tarta de queso,3.5
+1993,Ensalada,5.0
+1994,Ensalada,5.0
+1995,Capuchino,3.2
+1995,Tarta de queso,3.5
+1995,Ensalada,5.0
+1996,Croissant,2.2
+1996,Ensalada,5.0
+1997,Croissant,2.2
+1997,Ensalada,5.0
+1998,Smoothie,4.0
+1998,Tarta de queso,3.5
+1998,Croissant,2.2
+1999,Café americano,2.5
+1999,Té verde,2.8
+1999,Café con leche,3.0
+2000,Té verde,2.8
+2000,Tarta de queso,3.5
+2000,Café con leche,3.0
+2001,Capuchino,3.2
+2001,Croissant,2.2
+2002,Café con leche,3.0
+2003,Té verde,2.8
+2003,Café americano,2.5
+2004,Tarta de queso,3.5
+2005,Croissant,2.2
+2006,Tarta de queso,3.5
+2006,Café americano,2.5
+2007,Café con leche,3.0
+2007,Croissant,2.2
+2008,Sándwich,4.5
+2008,Café con leche,3.0
+2009,Café con leche,3.0
+2009,Sándwich,4.5
+2009,Café americano,2.5
+2010,Croissant,2.2
+2011,Smoothie,4.0
+2011,Sándwich,4.5
+2012,Capuchino,3.2
+2012,Smoothie,4.0
+2013,Croissant,2.2
+2013,Tarta de queso,3.5
+2014,Café americano,2.5
+2014,Ensalada,5.0
+2014,Croissant,2.2
+2015,Capuchino,3.2
+2015,Tarta de queso,3.5
+2016,Té verde,2.8
+2017,Sándwich,4.5
+2017,Ensalada,5.0
+2017,Croissant,2.2
+2018,Café con leche,3.0
+2019,Tarta de queso,3.5
+2020,Sándwich,4.5
+2020,Café americano,2.5
+2020,Capuchino,3.2
+2021,Smoothie,4.0
+2022,Croissant,2.2
+2022,Sándwich,4.5
+2023,Tarta de queso,3.5
+2023,Smoothie,4.0
+2023,Capuchino,3.2
+2024,Café americano,2.5
+2024,Capuchino,3.2
+2025,Croissant,2.2
+2025,Tarta de queso,3.5
+2025,Té verde,2.8
+2026,Sándwich,4.5
+2026,Tarta de queso,3.5
+2027,Ensalada,5.0
+2027,Smoothie,4.0
+2028,Sándwich,4.5
+2029,Ensalada,5.0
+2029,Café americano,2.5
+2030,Tarta de queso,3.5
+2030,Smoothie,4.0
+2030,Café con leche,3.0
+2031,Café con leche,3.0
+2031,Ensalada,5.0
+2031,Café americano,2.5
+2032,Croissant,2.2
+2032,Tarta de queso,3.5
+2033,Capuchino,3.2
+2034,Café con leche,3.0
+2034,Tarta de queso,3.5
+2035,Capuchino,3.2
+2035,Té verde,2.8
+2036,Ensalada,5.0
+2036,Capuchino,3.2
+2036,Smoothie,4.0
+2037,Té verde,2.8
+2037,Ensalada,5.0
+2038,Capuchino,3.2
+2039,Té verde,2.8
+2040,Ensalada,5.0
+2040,Sándwich,4.5
+2040,Té verde,2.8
+2041,Smoothie,4.0
+2042,Croissant,2.2
+2043,Smoothie,4.0
+2043,Tarta de queso,3.5
+2043,Sándwich,4.5
+2044,Tarta de queso,3.5
+2044,Té verde,2.8
+2044,Café con leche,3.0
+2045,Capuchino,3.2
+2046,Café americano,2.5
+2046,Té verde,2.8
+2047,Sándwich,4.5
+2048,Té verde,2.8
+2048,Ensalada,5.0
+2049,Café con leche,3.0
+2049,Croissant,2.2
+2049,Café americano,2.5
+2050,Croissant,2.2
+2051,Té verde,2.8
+2052,Café con leche,3.0
+2052,Ensalada,5.0
+2053,Té verde,2.8
+2053,Tarta de queso,3.5
+2053,Café americano,2.5
+2054,Capuchino,3.2
+2054,Croissant,2.2
+2055,Ensalada,5.0
+2056,Té verde,2.8
+2056,Ensalada,5.0
+2057,Capuchino,3.2
+2058,Café con leche,3.0
+2058,Capuchino,3.2
+2058,Ensalada,5.0
+2059,Capuchino,3.2
+2060,Smoothie,4.0
+2060,Capuchino,3.2
+2061,Café americano,2.5
+2061,Té verde,2.8
+2062,Sándwich,4.5
+2063,Café con leche,3.0
+2063,Tarta de queso,3.5
+2064,Café americano,2.5
+2064,Sándwich,4.5
+2065,Té verde,2.8
+2065,Croissant,2.2
+2066,Café americano,2.5
+2067,Croissant,2.2
+2068,Café con leche,3.0
+2068,Té verde,2.8
+2068,Café americano,2.5
+2069,Capuchino,3.2
+2069,Sándwich,4.5
+2070,Croissant,2.2
+2071,Té verde,2.8
+2071,Tarta de queso,3.5
+2071,Sándwich,4.5
+2072,Croissant,2.2
+2072,Sándwich,4.5
+2073,Croissant,2.2
+2073,Café americano,2.5
+2073,Té verde,2.8
+2074,Smoothie,4.0
+2075,Café con leche,3.0
+2076,Ensalada,5.0
+2076,Café con leche,3.0
+2076,Croissant,2.2
+2077,Capuchino,3.2
+2077,Smoothie,4.0
+2078,Tarta de queso,3.5
+2079,Capuchino,3.2
+2079,Croissant,2.2
+2080,Croissant,2.2
+2080,Ensalada,5.0
+2080,Café americano,2.5
+2081,Ensalada,5.0
+2081,Tarta de queso,3.5
+2081,Smoothie,4.0
+2082,Café americano,2.5
+2082,Té verde,2.8
+2082,Sándwich,4.5
+2083,Smoothie,4.0
+2084,Té verde,2.8
+2084,Café con leche,3.0
+2085,Smoothie,4.0
+2085,Té verde,2.8
+2085,Café con leche,3.0
+2086,Té verde,2.8
+2086,Ensalada,5.0
+2087,Smoothie,4.0
+2088,Café americano,2.5
+2088,Tarta de queso,3.5
+2088,Croissant,2.2
+2089,Té verde,2.8
+2089,Croissant,2.2
+2089,Capuchino,3.2
+2090,Té verde,2.8
+2090,Sándwich,4.5
+2090,Smoothie,4.0
+2091,Capuchino,3.2
+2091,Ensalada,5.0
+2091,Croissant,2.2
+2092,Café con leche,3.0
+2093,Capuchino,3.2
+2094,Capuchino,3.2
+2094,Té verde,2.8
+2094,Café con leche,3.0
+2095,Ensalada,5.0
+2096,Té verde,2.8
+2096,Tarta de queso,3.5
+2096,Café con leche,3.0
+2097,Ensalada,5.0
+2097,Té verde,2.8
+2097,Capuchino,3.2
+2098,Croissant,2.2
+2098,Tarta de queso,3.5
+2098,Té verde,2.8
+2099,Sándwich,4.5
+2100,Capuchino,3.2
+2101,Café americano,2.5
+2101,Tarta de queso,3.5
+2101,Té verde,2.8
+2102,Smoothie,4.0
+2102,Capuchino,3.2
+2102,Sándwich,4.5
+2103,Ensalada,5.0
+2103,Smoothie,4.0
+2103,Té verde,2.8
+2104,Ensalada,5.0
+2104,Café con leche,3.0
+2105,Té verde,2.8
+2105,Capuchino,3.2
+2105,Café con leche,3.0
+2106,Croissant,2.2
+2107,Tarta de queso,3.5
+2108,Ensalada,5.0
+2108,Smoothie,4.0
+2108,Croissant,2.2
+2109,Café americano,2.5
+2109,Café con leche,3.0
+2110,Té verde,2.8
+2111,Croissant,2.2
+2112,Croissant,2.2
+2112,Café americano,2.5
+2112,Sándwich,4.5
+2113,Té verde,2.8
+2114,Croissant,2.2
+2114,Café americano,2.5
+2115,Smoothie,4.0
+2115,Ensalada,5.0
+2115,Croissant,2.2
+2116,Capuchino,3.2
+2117,Tarta de queso,3.5
+2118,Café con leche,3.0
+2119,Tarta de queso,3.5
+2120,Smoothie,4.0
+2120,Tarta de queso,3.5
+2121,Café con leche,3.0
+2121,Sándwich,4.5
+2122,Croissant,2.2
+2123,Té verde,2.8
+2124,Smoothie,4.0
+2124,Café americano,2.5
+2124,Café con leche,3.0
+2125,Café con leche,3.0
+2125,Tarta de queso,3.5
+2126,Tarta de queso,3.5
+2127,Capuchino,3.2
+2127,Té verde,2.8
+2127,Ensalada,5.0
+2128,Ensalada,5.0
+2128,Té verde,2.8
+2128,Café con leche,3.0
+2129,Té verde,2.8
+2129,Smoothie,4.0
+2129,Tarta de queso,3.5
+2130,Café con leche,3.0
+2130,Capuchino,3.2
+2131,Café con leche,3.0
+2131,Smoothie,4.0
+2132,Té verde,2.8
+2132,Ensalada,5.0
+2133,Café americano,2.5
+2133,Sándwich,4.5
+2134,Café americano,2.5
+2134,Café con leche,3.0
+2134,Ensalada,5.0
+2135,Sándwich,4.5
+2135,Smoothie,4.0
+2135,Té verde,2.8
+2136,Tarta de queso,3.5
+2137,Croissant,2.2
+2137,Sándwich,4.5
+2138,Tarta de queso,3.5
+2138,Sándwich,4.5
+2138,Smoothie,4.0
+2139,Croissant,2.2
+2139,Café con leche,3.0
+2140,Tarta de queso,3.5
+2140,Capuchino,3.2
+2141,Sándwich,4.5
+2142,Té verde,2.8
+2142,Croissant,2.2
+2143,Ensalada,5.0
+2144,Café americano,2.5
+2145,Croissant,2.2
+2146,Café americano,2.5
+2146,Croissant,2.2
+2147,Ensalada,5.0
+2147,Tarta de queso,3.5
+2148,Croissant,2.2
+2148,Tarta de queso,3.5
+2148,Té verde,2.8
+2149,Café con leche,3.0
+2149,Tarta de queso,3.5
+2149,Capuchino,3.2
+2150,Sándwich,4.5
+2150,Café americano,2.5
+2150,Café con leche,3.0
+2151,Sándwich,4.5
+2152,Ensalada,5.0
+2153,Sándwich,4.5
+2154,Café con leche,3.0
+2155,Café americano,2.5
+2155,Capuchino,3.2
+2156,Smoothie,4.0
+2157,Ensalada,5.0
+2157,Café con leche,3.0
+2158,Ensalada,5.0
+2158,Café con leche,3.0
+2159,Té verde,2.8
+2159,Café con leche,3.0
+2159,Croissant,2.2
+2160,Tarta de queso,3.5
+2161,Tarta de queso,3.5
+2162,Café con leche,3.0
+2163,Croissant,2.2
+2163,Té verde,2.8
+2163,Sándwich,4.5
+2164,Capuchino,3.2
+2165,Café americano,2.5
+2165,Smoothie,4.0
+2166,Tarta de queso,3.5
+2166,Sándwich,4.5
+2166,Capuchino,3.2
+2167,Capuchino,3.2
+2167,Té verde,2.8
+2168,Ensalada,5.0
+2168,Croissant,2.2
+2169,Té verde,2.8
+2169,Ensalada,5.0
+2169,Croissant,2.2
+2170,Capuchino,3.2
+2170,Café americano,2.5
+2171,Café con leche,3.0
+2172,Ensalada,5.0
+2172,Té verde,2.8
+2172,Sándwich,4.5
+2173,Café americano,2.5
+2173,Croissant,2.2
+2173,Café con leche,3.0
+2174,Té verde,2.8
+2175,Capuchino,3.2
+2175,Ensalada,5.0
+2175,Croissant,2.2
+2176,Capuchino,3.2
+2176,Café americano,2.5
+2177,Ensalada,5.0
+2178,Tarta de queso,3.5
+2178,Café con leche,3.0
+2179,Té verde,2.8
+2179,Tarta de queso,3.5
+2179,Café americano,2.5
+2180,Café americano,2.5
+2180,Smoothie,4.0
+2181,Capuchino,3.2
+2181,Ensalada,5.0
+2181,Croissant,2.2
+2182,Té verde,2.8
+2182,Sándwich,4.5
+2182,Tarta de queso,3.5
+2183,Café americano,2.5
+2183,Croissant,2.2
+2183,Ensalada,5.0
+2184,Capuchino,3.2
+2185,Capuchino,3.2
+2186,Ensalada,5.0
+2187,Sándwich,4.5
+2187,Croissant,2.2
+2188,Tarta de queso,3.5
+2188,Té verde,2.8
+2189,Ensalada,5.0
+2190,Capuchino,3.2
+2190,Tarta de queso,3.5
+2191,Café con leche,3.0
+2191,Ensalada,5.0
+2192,Smoothie,4.0
+2192,Ensalada,5.0
+2193,Café con leche,3.0
+2193,Sándwich,4.5
+2193,Té verde,2.8
+2194,Té verde,2.8
+2194,Café americano,2.5
+2195,Ensalada,5.0
+2195,Smoothie,4.0
+2195,Croissant,2.2
+2196,Capuchino,3.2
+2196,Tarta de queso,3.5
+2197,Tarta de queso,3.5
+2198,Croissant,2.2
+2198,Café con leche,3.0
+2199,Sándwich,4.5
+2200,Café americano,2.5
+2201,Sándwich,4.5
+2201,Ensalada,5.0
+2201,Café americano,2.5
+2202,Café con leche,3.0
+2202,Té verde,2.8
+2202,Croissant,2.2
+2203,Capuchino,3.2
+2203,Café americano,2.5
+2203,Smoothie,4.0
+2204,Café americano,2.5
+2204,Capuchino,3.2
+2204,Smoothie,4.0
+2205,Sándwich,4.5
+2205,Smoothie,4.0
+2206,Café con leche,3.0
+2206,Smoothie,4.0
+2207,Tarta de queso,3.5
+2207,Café americano,2.5
+2208,Sándwich,4.5
+2208,Smoothie,4.0
+2209,Ensalada,5.0
+2209,Croissant,2.2
+2210,Croissant,2.2
+2210,Té verde,2.8
+2210,Sándwich,4.5
+2211,Té verde,2.8
+2212,Té verde,2.8
+2212,Capuchino,3.2
+2213,Croissant,2.2
+2213,Smoothie,4.0
+2213,Café con leche,3.0
+2214,Sándwich,4.5
+2214,Smoothie,4.0
+2215,Capuchino,3.2
+2215,Tarta de queso,3.5
+2215,Té verde,2.8
+2216,Tarta de queso,3.5
+2216,Capuchino,3.2
+2217,Smoothie,4.0
+2217,Té verde,2.8
+2218,Sándwich,4.5
+2218,Capuchino,3.2
+2218,Té verde,2.8
+2219,Tarta de queso,3.5
+2219,Sándwich,4.5
+2219,Café americano,2.5
+2220,Smoothie,4.0
+2220,Café con leche,3.0
+2221,Tarta de queso,3.5
+2221,Café con leche,3.0
+2222,Croissant,2.2
+2223,Té verde,2.8
+2223,Smoothie,4.0
+2223,Café americano,2.5
+2224,Té verde,2.8
+2225,Café con leche,3.0
+2225,Capuchino,3.2
+2225,Smoothie,4.0
+2226,Ensalada,5.0
+2226,Café con leche,3.0
+2226,Smoothie,4.0
+2227,Smoothie,4.0
+2227,Sándwich,4.5
+2227,Ensalada,5.0
+2228,Croissant,2.2
+2228,Tarta de queso,3.5
+2228,Café con leche,3.0
+2229,Sándwich,4.5
+2229,Tarta de queso,3.5
+2229,Té verde,2.8
+2230,Sándwich,4.5
+2230,Capuchino,3.2
+2230,Croissant,2.2
+2231,Smoothie,4.0
+2232,Croissant,2.2
+2232,Té verde,2.8
+2232,Sándwich,4.5
+2233,Capuchino,3.2
+2233,Ensalada,5.0
+2233,Sándwich,4.5
+2234,Smoothie,4.0
+2234,Tarta de queso,3.5
+2234,Sándwich,4.5
+2235,Té verde,2.8
+2235,Smoothie,4.0
+2236,Smoothie,4.0
+2236,Tarta de queso,3.5
+2236,Ensalada,5.0
+2237,Café con leche,3.0
+2238,Café con leche,3.0
+2238,Capuchino,3.2
+2238,Smoothie,4.0
+2239,Sándwich,4.5
+2240,Café americano,2.5
+2240,Tarta de queso,3.5
+2241,Capuchino,3.2
+2241,Ensalada,5.0
+2241,Té verde,2.8
+2242,Sándwich,4.5
+2242,Café con leche,3.0
+2242,Té verde,2.8
+2243,Café americano,2.5
+2243,Tarta de queso,3.5
+2243,Croissant,2.2
+2244,Sándwich,4.5
+2244,Café americano,2.5
+2244,Smoothie,4.0
+2245,Sándwich,4.5
+2245,Té verde,2.8
+2245,Café con leche,3.0
+2246,Sándwich,4.5
+2247,Ensalada,5.0
+2247,Tarta de queso,3.5
+2248,Croissant,2.2
+2248,Té verde,2.8
+2248,Tarta de queso,3.5
+2249,Café con leche,3.0
+2250,Smoothie,4.0
+2250,Té verde,2.8
+2250,Café americano,2.5
+2251,Té verde,2.8
+2251,Smoothie,4.0
+2252,Café americano,2.5
+2252,Ensalada,5.0
+2252,Smoothie,4.0
+2253,Café americano,2.5
+2253,Ensalada,5.0
+2253,Capuchino,3.2
+2254,Croissant,2.2
+2254,Capuchino,3.2
+2255,Tarta de queso,3.5
+2255,Ensalada,5.0
+2256,Capuchino,3.2
+2256,Tarta de queso,3.5
+2257,Capuchino,3.2
+2258,Ensalada,5.0
+2258,Tarta de queso,3.5
+2259,Capuchino,3.2
+2259,Smoothie,4.0
+2260,Ensalada,5.0
+2260,Capuchino,3.2
+2261,Café americano,2.5
+2261,Croissant,2.2
+2262,Café con leche,3.0
+2262,Té verde,2.8
+2263,Tarta de queso,3.5
+2264,Capuchino,3.2
+2264,Té verde,2.8
+2265,Smoothie,4.0
+2265,Café con leche,3.0
+2266,Capuchino,3.2
+2266,Croissant,2.2
+2266,Tarta de queso,3.5
+2267,Sándwich,4.5
+2267,Tarta de queso,3.5
+2268,Café americano,2.5
+2268,Capuchino,3.2
+2268,Café con leche,3.0
+2269,Té verde,2.8
+2270,Tarta de queso,3.5
+2270,Café americano,2.5
+2271,Ensalada,5.0
+2271,Café con leche,3.0
+2271,Tarta de queso,3.5
+2272,Sándwich,4.5
+2273,Café con leche,3.0
+2273,Smoothie,4.0
+2274,Tarta de queso,3.5
+2275,Café con leche,3.0
+2275,Capuchino,3.2
+2276,Capuchino,3.2
+2276,Té verde,2.8
+2277,Smoothie,4.0
+2277,Té verde,2.8
+2278,Té verde,2.8
+2278,Café con leche,3.0
+2278,Tarta de queso,3.5
+2279,Smoothie,4.0
+2280,Té verde,2.8
+2280,Croissant,2.2
+2280,Sándwich,4.5
+2281,Café americano,2.5
+2281,Smoothie,4.0
+2282,Croissant,2.2
+2282,Tarta de queso,3.5
+2282,Café con leche,3.0
+2283,Café americano,2.5
+2283,Sándwich,4.5
+2283,Ensalada,5.0
+2284,Smoothie,4.0
+2284,Ensalada,5.0
+2285,Tarta de queso,3.5
+2285,Capuchino,3.2
+2286,Croissant,2.2
+2286,Smoothie,4.0
+2287,Sándwich,4.5
+2287,Capuchino,3.2
+2287,Ensalada,5.0
+2288,Sándwich,4.5
+2288,Croissant,2.2
+2289,Tarta de queso,3.5
+2289,Café con leche,3.0
+2289,Café americano,2.5
+2290,Café con leche,3.0
+2290,Café americano,2.5
+2290,Smoothie,4.0
+2291,Té verde,2.8
+2291,Sándwich,4.5
+2292,Café con leche,3.0
+2292,Croissant,2.2
+2293,Té verde,2.8
+2293,Capuchino,3.2
+2293,Café americano,2.5
+2294,Smoothie,4.0
+2295,Sándwich,4.5
+2296,Ensalada,5.0
+2296,Café con leche,3.0
+2296,Té verde,2.8
+2297,Sándwich,4.5
+2297,Café americano,2.5
+2297,Café con leche,3.0
+2298,Capuchino,3.2
+2298,Smoothie,4.0
+2298,Café americano,2.5
+2299,Té verde,2.8
+2299,Tarta de queso,3.5
+2300,Sándwich,4.5
+2300,Café con leche,3.0
+2300,Ensalada,5.0
+2301,Sándwich,4.5
+2301,Tarta de queso,3.5
+2302,Capuchino,3.2
+2302,Café americano,2.5
+2302,Café con leche,3.0
+2303,Café americano,2.5
+2303,Ensalada,5.0
+2304,Smoothie,4.0
+2304,Sándwich,4.5
+2304,Tarta de queso,3.5
+2305,Sándwich,4.5
+2306,Sándwich,4.5
+2307,Capuchino,3.2
+2308,Capuchino,3.2
+2309,Té verde,2.8
+2309,Sándwich,4.5
+2310,Croissant,2.2
+2311,Croissant,2.2
+2311,Café con leche,3.0
+2311,Sándwich,4.5
+2312,Capuchino,3.2
+2313,Croissant,2.2
+2313,Café americano,2.5
+2313,Sándwich,4.5
+2314,Té verde,2.8
+2314,Smoothie,4.0
+2314,Café con leche,3.0
+2315,Café con leche,3.0
+2315,Tarta de queso,3.5
+2316,Sándwich,4.5
+2316,Té verde,2.8
+2316,Tarta de queso,3.5
+2317,Té verde,2.8
+2317,Tarta de queso,3.5
+2318,Tarta de queso,3.5
+2318,Croissant,2.2
+2318,Café con leche,3.0
+2319,Capuchino,3.2
+2319,Ensalada,5.0
+2319,Café con leche,3.0
+2320,Ensalada,5.0
+2320,Capuchino,3.2
+2320,Croissant,2.2
+2321,Capuchino,3.2
+2321,Tarta de queso,3.5
+2322,Capuchino,3.2
+2322,Café con leche,3.0
+2322,Té verde,2.8
+2323,Tarta de queso,3.5
+2323,Café con leche,3.0
+2324,Café americano,2.5
+2325,Café americano,2.5
+2325,Café con leche,3.0
+2326,Café americano,2.5
+2327,Smoothie,4.0
+2327,Capuchino,3.2
+2328,Café americano,2.5
+2328,Café con leche,3.0
+2328,Smoothie,4.0
+2329,Café con leche,3.0
+2329,Té verde,2.8
+2330,Ensalada,5.0
+2330,Capuchino,3.2
+2330,Sándwich,4.5
+2331,Café americano,2.5
+2331,Smoothie,4.0
+2331,Croissant,2.2
+2332,Café americano,2.5
+2333,Sándwich,4.5
+2333,Tarta de queso,3.5
+2333,Café con leche,3.0
+2334,Té verde,2.8
+2334,Tarta de queso,3.5
+2334,Sándwich,4.5
+2335,Té verde,2.8
+2335,Tarta de queso,3.5
+2335,Croissant,2.2
+2336,Café con leche,3.0
+2336,Ensalada,5.0
+2337,Café con leche,3.0
+2337,Smoothie,4.0
+2338,Café con leche,3.0
+2338,Croissant,2.2
+2339,Café americano,2.5
+2339,Capuchino,3.2
+2340,Capuchino,3.2
+2341,Smoothie,4.0
+2341,Sándwich,4.5
+2341,Capuchino,3.2
+2342,Ensalada,5.0
+2342,Croissant,2.2
+2342,Capuchino,3.2
+2343,Café con leche,3.0
+2343,Café americano,2.5
+2343,Tarta de queso,3.5
+2344,Capuchino,3.2
+2344,Croissant,2.2
+2344,Café con leche,3.0
+2345,Ensalada,5.0
+2345,Café con leche,3.0
+2346,Smoothie,4.0
+2346,Capuchino,3.2
+2346,Café americano,2.5
+2347,Tarta de queso,3.5
+2347,Croissant,2.2
+2347,Capuchino,3.2
+2348,Tarta de queso,3.5
+2348,Croissant,2.2
+2349,Té verde,2.8
+2349,Tarta de queso,3.5
+2349,Sándwich,4.5
+2350,Ensalada,5.0
+2350,Té verde,2.8
+2350,Sándwich,4.5
+2351,Sándwich,4.5
+2352,Té verde,2.8
+2352,Café con leche,3.0
+2353,Café americano,2.5
+2353,Croissant,2.2
+2353,Smoothie,4.0
+2354,Café con leche,3.0
+2354,Café americano,2.5
+2355,Capuchino,3.2
+2355,Smoothie,4.0
+2356,Sándwich,4.5
+2357,Té verde,2.8
+2358,Capuchino,3.2
+2358,Café con leche,3.0
+2359,Tarta de queso,3.5
+2360,Tarta de queso,3.5
+2360,Croissant,2.2
+2360,Café americano,2.5
+2361,Café con leche,3.0
+2361,Ensalada,5.0
+2361,Tarta de queso,3.5
+2362,Capuchino,3.2
+2362,Croissant,2.2
+2362,Café con leche,3.0
+2363,Tarta de queso,3.5
+2364,Capuchino,3.2
+2364,Smoothie,4.0
+2365,Ensalada,5.0
+2365,Café americano,2.5
+2366,Café americano,2.5
+2366,Capuchino,3.2
+2366,Smoothie,4.0
+2367,Tarta de queso,3.5
+2367,Ensalada,5.0
+2367,Smoothie,4.0
+2368,Sándwich,4.5
+2368,Smoothie,4.0
+2368,Croissant,2.2
+2369,Smoothie,4.0
+2369,Café con leche,3.0
+2370,Capuchino,3.2
+2370,Té verde,2.8
+2371,Tarta de queso,3.5
+2371,Capuchino,3.2
+2371,Sándwich,4.5
+2372,Café con leche,3.0
+2372,Ensalada,5.0
+2373,Tarta de queso,3.5
+2374,Croissant,2.2
+2374,Tarta de queso,3.5
+2375,Café con leche,3.0
+2375,Croissant,2.2
+2375,Smoothie,4.0
+2376,Té verde,2.8
+2377,Café con leche,3.0
+2377,Té verde,2.8
+2378,Smoothie,4.0
+2378,Té verde,2.8
+2378,Sándwich,4.5
+2379,Té verde,2.8
+2380,Café americano,2.5
+2380,Ensalada,5.0
+2381,Smoothie,4.0
+2381,Café americano,2.5
+2382,Tarta de queso,3.5
+2382,Té verde,2.8
+2382,Capuchino,3.2
+2383,Capuchino,3.2
+2384,Tarta de queso,3.5
+2384,Café con leche,3.0
+2385,Café americano,2.5
+2386,Café americano,2.5
+2386,Smoothie,4.0
+2387,Café con leche,3.0
+2387,Sándwich,4.5
+2387,Croissant,2.2
+2388,Capuchino,3.2
+2388,Sándwich,4.5
+2389,Sándwich,4.5
+2389,Croissant,2.2
+2390,Smoothie,4.0
+2391,Tarta de queso,3.5
+2392,Tarta de queso,3.5
+2392,Té verde,2.8
+2392,Café con leche,3.0
+2393,Capuchino,3.2
+2394,Café con leche,3.0
+2395,Smoothie,4.0
+2395,Café con leche,3.0
+2396,Capuchino,3.2
+2396,Smoothie,4.0
+2397,Croissant,2.2
+2398,Ensalada,5.0
+2398,Smoothie,4.0
+2398,Té verde,2.8
+2399,Ensalada,5.0
+2400,Café con leche,3.0
+2400,Ensalada,5.0
+2400,Café americano,2.5
+2401,Tarta de queso,3.5
+2402,Capuchino,3.2
+2402,Ensalada,5.0
+2403,Croissant,2.2
+2404,Sándwich,4.5
+2404,Ensalada,5.0
+2404,Capuchino,3.2
+2405,Café americano,2.5
+2405,Sándwich,4.5
+2406,Sándwich,4.5
+2406,Café americano,2.5
+2407,Tarta de queso,3.5
+2408,Café con leche,3.0
+2408,Té verde,2.8
+2408,Ensalada,5.0
+2409,Croissant,2.2
+2410,Ensalada,5.0
+2411,Café con leche,3.0
+2411,Tarta de queso,3.5
+2412,Croissant,2.2
+2412,Café con leche,3.0
+2412,Capuchino,3.2
+2413,Té verde,2.8
+2413,Ensalada,5.0
+2413,Café americano,2.5
+2414,Capuchino,3.2
+2414,Ensalada,5.0
+2414,Café con leche,3.0
+2415,Café americano,2.5
+2415,Tarta de queso,3.5
+2415,Sándwich,4.5
+2416,Tarta de queso,3.5
+2417,Té verde,2.8
+2417,Café americano,2.5
+2418,Smoothie,4.0
+2419,Capuchino,3.2
+2419,Café con leche,3.0
+2420,Ensalada,5.0
+2420,Tarta de queso,3.5
+2420,Smoothie,4.0
+2421,Capuchino,3.2
+2422,Tarta de queso,3.5
+2422,Croissant,2.2
+2422,Sándwich,4.5
+2423,Tarta de queso,3.5
+2423,Ensalada,5.0
+2423,Té verde,2.8
+2424,Tarta de queso,3.5
+2425,Tarta de queso,3.5
+2425,Café americano,2.5
+2426,Té verde,2.8
+2426,Café con leche,3.0
+2426,Croissant,2.2
+2427,Croissant,2.2
+2428,Croissant,2.2
+2429,Capuchino,3.2
+2429,Ensalada,5.0
+2430,Tarta de queso,3.5
+2431,Ensalada,5.0
+2431,Capuchino,3.2
+2432,Café con leche,3.0
+2433,Té verde,2.8
+2433,Tarta de queso,3.5
+2433,Croissant,2.2
+2434,Tarta de queso,3.5
+2435,Té verde,2.8
+2435,Café americano,2.5
+2435,Capuchino,3.2
+2436,Smoothie,4.0
+2436,Café con leche,3.0
+2436,Croissant,2.2
+2437,Tarta de queso,3.5
+2438,Sándwich,4.5
+2439,Croissant,2.2
+2439,Café con leche,3.0
+2439,Ensalada,5.0
+2440,Sándwich,4.5
+2440,Capuchino,3.2
+2441,Tarta de queso,3.5
+2441,Smoothie,4.0
+2441,Croissant,2.2
+2442,Café con leche,3.0
+2443,Café con leche,3.0
+2443,Sándwich,4.5
+2444,Tarta de queso,3.5
+2444,Café con leche,3.0
+2445,Sándwich,4.5
+2445,Café con leche,3.0
+2445,Croissant,2.2
+2446,Café americano,2.5
+2447,Té verde,2.8
+2447,Sándwich,4.5
+2448,Café con leche,3.0
+2448,Té verde,2.8
+2449,Croissant,2.2
+2449,Ensalada,5.0
+2450,Tarta de queso,3.5
+2450,Café americano,2.5
+2451,Sándwich,4.5
+2451,Smoothie,4.0
+2451,Capuchino,3.2
+2452,Tarta de queso,3.5
+2452,Té verde,2.8
+2452,Café americano,2.5
+2453,Café americano,2.5
+2454,Sándwich,4.5
+2455,Croissant,2.2
+2455,Capuchino,3.2
+2456,Té verde,2.8
+2456,Tarta de queso,3.5
+2457,Café americano,2.5
+2458,Capuchino,3.2
+2459,Capuchino,3.2
+2459,Tarta de queso,3.5
+2459,Sándwich,4.5
+2460,Café con leche,3.0
+2460,Capuchino,3.2
+2460,Smoothie,4.0
+2461,Tarta de queso,3.5
+2461,Smoothie,4.0
+2461,Sándwich,4.5
+2462,Té verde,2.8
+2462,Café con leche,3.0
+2463,Capuchino,3.2
+2463,Café americano,2.5
+2464,Café con leche,3.0
+2464,Tarta de queso,3.5
+2464,Café americano,2.5
+2465,Ensalada,5.0
+2466,Capuchino,3.2
+2466,Té verde,2.8
+2466,Croissant,2.2
+2467,Sándwich,4.5
+2468,Tarta de queso,3.5
+2468,Smoothie,4.0
+2469,Capuchino,3.2
+2469,Café americano,2.5
+2470,Café con leche,3.0
+2470,Sándwich,4.5
+2471,Café con leche,3.0
+2472,Capuchino,3.2
+2472,Café con leche,3.0
+2472,Café americano,2.5
+2473,Té verde,2.8
+2473,Tarta de queso,3.5
+2473,Café americano,2.5
+2474,Café con leche,3.0
+2474,Ensalada,5.0
+2475,Tarta de queso,3.5
+2475,Sándwich,4.5
+2476,Ensalada,5.0
+2477,Café americano,2.5
+2477,Capuchino,3.2
+2478,Café americano,2.5
+2478,Café con leche,3.0
+2478,Capuchino,3.2
+2479,Sándwich,4.5
+2479,Café americano,2.5
+2480,Café con leche,3.0
+2481,Café americano,2.5
+2481,Capuchino,3.2
+2481,Café con leche,3.0
+2482,Té verde,2.8
+2482,Café americano,2.5
+2483,Capuchino,3.2
+2484,Café con leche,3.0
+2484,Croissant,2.2
+2484,Ensalada,5.0
+2485,Ensalada,5.0
+2486,Té verde,2.8
+2486,Smoothie,4.0
+2486,Café con leche,3.0
+2487,Smoothie,4.0
+2487,Tarta de queso,3.5
+2487,Café americano,2.5
+2488,Smoothie,4.0
+2488,Capuchino,3.2
+2488,Tarta de queso,3.5
+2489,Tarta de queso,3.5
+2489,Ensalada,5.0
+2489,Té verde,2.8
+2490,Croissant,2.2
+2490,Café con leche,3.0
+2491,Croissant,2.2
+2492,Café con leche,3.0
+2492,Ensalada,5.0
+2493,Sándwich,4.5
+2493,Smoothie,4.0
+2494,Sándwich,4.5
+2495,Capuchino,3.2
+2496,Capuchino,3.2
+2496,Croissant,2.2
+2496,Café con leche,3.0
+2497,Croissant,2.2
+2497,Capuchino,3.2
+2498,Croissant,2.2
+2498,Café americano,2.5
+2499,Croissant,2.2
+2500,Tarta de queso,3.5
+2500,Smoothie,4.0
+2500,Ensalada,5.0
+2501,Sándwich,4.5
+2501,Smoothie,4.0
+2501,Croissant,2.2
+2502,Café con leche,3.0
+2502,Tarta de queso,3.5
+2502,Croissant,2.2
+2503,Croissant,2.2
+2504,Ensalada,5.0
+2504,Sándwich,4.5
+2505,Café con leche,3.0
+2506,Croissant,2.2
+2506,Tarta de queso,3.5
+2507,Café americano,2.5
+2508,Café americano,2.5
+2508,Ensalada,5.0
+2509,Tarta de queso,3.5
+2510,Sándwich,4.5
+2510,Café americano,2.5
+2511,Ensalada,5.0
+2512,Smoothie,4.0
+2513,Tarta de queso,3.5
+2513,Café con leche,3.0
+2514,Café americano,2.5
+2514,Tarta de queso,3.5
+2515,Ensalada,5.0
+2515,Café con leche,3.0
+2516,Café con leche,3.0
+2516,Café americano,2.5
+2517,Capuchino,3.2
+2517,Café con leche,3.0
+2518,Tarta de queso,3.5
+2519,Croissant,2.2
+2519,Café americano,2.5
+2519,Sándwich,4.5
+2520,Café americano,2.5
+2520,Café con leche,3.0
+2521,Smoothie,4.0
+2521,Croissant,2.2
+2522,Tarta de queso,3.5
+2523,Capuchino,3.2
+2523,Ensalada,5.0
+2524,Capuchino,3.2
+2524,Tarta de queso,3.5
+2524,Croissant,2.2
+2525,Sándwich,4.5
+2526,Ensalada,5.0
+2527,Ensalada,5.0
+2528,Smoothie,4.0
+2528,Café con leche,3.0
+2529,Té verde,2.8
+2529,Sándwich,4.5
+2530,Ensalada,5.0
+2531,Té verde,2.8
+2531,Ensalada,5.0
+2531,Tarta de queso,3.5
+2532,Croissant,2.2
+2532,Té verde,2.8
+2532,Tarta de queso,3.5
+2533,Croissant,2.2
+2534,Ensalada,5.0
+2534,Capuchino,3.2
+2534,Tarta de queso,3.5
+2535,Té verde,2.8
+2536,Ensalada,5.0
+2536,Té verde,2.8
+2537,Smoothie,4.0
+2538,Café con leche,3.0
+2538,Capuchino,3.2
+2539,Café con leche,3.0
+2539,Té verde,2.8
+2539,Café americano,2.5
+2540,Café americano,2.5
+2540,Ensalada,5.0
+2541,Smoothie,4.0
+2541,Café con leche,3.0
+2541,Sándwich,4.5
+2542,Capuchino,3.2
+2542,Tarta de queso,3.5
+2543,Café americano,2.5
+2543,Ensalada,5.0
+2543,Capuchino,3.2
+2544,Tarta de queso,3.5
+2544,Sándwich,4.5
+2545,Capuchino,3.2
+2545,Smoothie,4.0
+2546,Tarta de queso,3.5
+2546,Café con leche,3.0
+2547,Café con leche,3.0
+2547,Té verde,2.8
+2548,Smoothie,4.0
+2549,Smoothie,4.0
+2549,Té verde,2.8
+2550,Tarta de queso,3.5
+2550,Sándwich,4.5
+2550,Té verde,2.8
+2551,Smoothie,4.0
+2551,Ensalada,5.0
+2552,Croissant,2.2
+2552,Smoothie,4.0
+2552,Sándwich,4.5
+2553,Café con leche,3.0
+2553,Capuchino,3.2
+2553,Smoothie,4.0
+2554,Smoothie,4.0
+2554,Té verde,2.8
+2554,Café con leche,3.0
+2555,Capuchino,3.2
+2556,Café americano,2.5
+2556,Ensalada,5.0
+2556,Té verde,2.8
+2557,Smoothie,4.0
+2558,Café americano,2.5
+2558,Croissant,2.2
+2559,Ensalada,5.0
+2560,Café americano,2.5
+2560,Sándwich,4.5
+2560,Smoothie,4.0
+2561,Té verde,2.8
+2561,Capuchino,3.2
+2561,Tarta de queso,3.5
+2562,Smoothie,4.0
+2563,Ensalada,5.0
+2563,Croissant,2.2
+2563,Smoothie,4.0
+2564,Croissant,2.2
+2564,Ensalada,5.0
+2564,Café americano,2.5
+2565,Croissant,2.2
+2565,Ensalada,5.0
+2566,Café americano,2.5
+2566,Capuchino,3.2
+2566,Té verde,2.8
+2567,Ensalada,5.0
+2567,Café americano,2.5
+2567,Café con leche,3.0
+2568,Tarta de queso,3.5
+2568,Croissant,2.2
+2568,Café con leche,3.0
+2569,Tarta de queso,3.5
+2569,Café con leche,3.0
+2570,Sándwich,4.5
+2571,Sándwich,4.5
+2571,Capuchino,3.2
+2571,Ensalada,5.0
+2572,Croissant,2.2
+2573,Smoothie,4.0
+2574,Sándwich,4.5
+2574,Croissant,2.2
+2575,Ensalada,5.0
+2575,Croissant,2.2
+2576,Ensalada,5.0
+2576,Capuchino,3.2
+2577,Smoothie,4.0
+2578,Smoothie,4.0
+2578,Ensalada,5.0
+2579,Café americano,2.5
+2580,Café con leche,3.0
+2580,Café americano,2.5
+2580,Té verde,2.8
+2581,Café americano,2.5
+2582,Smoothie,4.0
+2582,Capuchino,3.2
+2583,Capuchino,3.2
+2584,Café con leche,3.0
+2584,Smoothie,4.0
+2584,Sándwich,4.5
+2585,Té verde,2.8
+2586,Tarta de queso,3.5
+2587,Smoothie,4.0
+2588,Capuchino,3.2
+2589,Croissant,2.2
+2590,Té verde,2.8
+2591,Té verde,2.8
+2591,Smoothie,4.0
+2591,Capuchino,3.2
+2592,Ensalada,5.0
+2592,Capuchino,3.2
+2593,Tarta de queso,3.5
+2593,Café con leche,3.0
+2594,Croissant,2.2
+2594,Sándwich,4.5
+2595,Tarta de queso,3.5
+2595,Sándwich,4.5
+2596,Café americano,2.5
+2596,Tarta de queso,3.5
+2597,Smoothie,4.0
+2597,Té verde,2.8
+2598,Sándwich,4.5
+2598,Smoothie,4.0
+2598,Café americano,2.5
+2599,Tarta de queso,3.5
+2599,Café americano,2.5
+2599,Té verde,2.8
+2600,Ensalada,5.0
+2600,Café americano,2.5
+2600,Sándwich,4.5
+2601,Café con leche,3.0
+2601,Croissant,2.2
+2601,Smoothie,4.0
+2602,Ensalada,5.0
+2603,Café con leche,3.0
+2603,Café americano,2.5
+2603,Croissant,2.2
+2604,Ensalada,5.0
+2605,Capuchino,3.2
+2605,Smoothie,4.0
+2605,Croissant,2.2
+2606,Café americano,2.5
+2607,Té verde,2.8
+2607,Café con leche,3.0
+2607,Café americano,2.5
+2608,Café con leche,3.0
+2608,Sándwich,4.5
+2608,Ensalada,5.0
+2609,Sándwich,4.5
+2610,Café con leche,3.0
+2611,Capuchino,3.2
+2612,Sándwich,4.5
+2613,Ensalada,5.0
+2613,Café con leche,3.0
+2614,Capuchino,3.2
+2614,Sándwich,4.5
+2615,Capuchino,3.2
+2615,Té verde,2.8
+2616,Café con leche,3.0
+2617,Smoothie,4.0
+2618,Café con leche,3.0
+2618,Ensalada,5.0
+2618,Té verde,2.8
+2619,Smoothie,4.0
+2619,Ensalada,5.0
+2619,Café americano,2.5
+2620,Smoothie,4.0
+2621,Ensalada,5.0
+2622,Capuchino,3.2
+2623,Smoothie,4.0
+2624,Sándwich,4.5
+2625,Croissant,2.2
+2625,Tarta de queso,3.5
+2626,Capuchino,3.2
+2626,Croissant,2.2
+2627,Ensalada,5.0
+2627,Capuchino,3.2
+2627,Sándwich,4.5
+2628,Tarta de queso,3.5
+2629,Ensalada,5.0
+2629,Tarta de queso,3.5
+2630,Capuchino,3.2
+2631,Sándwich,4.5
+2631,Smoothie,4.0
+2631,Café con leche,3.0
+2632,Croissant,2.2
+2633,Café con leche,3.0
+2633,Café americano,2.5
+2634,Té verde,2.8
+2635,Ensalada,5.0
+2635,Croissant,2.2
+2636,Té verde,2.8
+2637,Tarta de queso,3.5
+2637,Sándwich,4.5
+2638,Smoothie,4.0
+2638,Café con leche,3.0
+2639,Ensalada,5.0
+2640,Café americano,2.5
+2640,Capuchino,3.2
+2640,Ensalada,5.0
+2641,Capuchino,3.2
+2641,Té verde,2.8
+2641,Café con leche,3.0
+2642,Smoothie,4.0
+2642,Té verde,2.8
+2642,Café con leche,3.0
+2643,Sándwich,4.5
+2643,Té verde,2.8
+2643,Café americano,2.5
+2644,Café con leche,3.0
+2645,Café americano,2.5
+2645,Croissant,2.2
+2645,Tarta de queso,3.5
+2646,Café con leche,3.0
+2646,Croissant,2.2
+2646,Sándwich,4.5
+2647,Sándwich,4.5
+2648,Ensalada,5.0
+2648,Croissant,2.2
+2649,Capuchino,3.2
+2649,Café con leche,3.0
+2650,Café con leche,3.0
+2651,Sándwich,4.5
+2652,Té verde,2.8
+2652,Café americano,2.5
+2652,Smoothie,4.0
+2653,Smoothie,4.0
+2653,Sándwich,4.5
+2654,Capuchino,3.2
+2654,Smoothie,4.0
+2654,Café americano,2.5
+2655,Sándwich,4.5
+2655,Smoothie,4.0
+2656,Café con leche,3.0
+2656,Ensalada,5.0
+2657,Café americano,2.5
+2658,Té verde,2.8
+2658,Croissant,2.2
+2659,Té verde,2.8
+2660,Café americano,2.5
+2660,Té verde,2.8
+2660,Ensalada,5.0
+2661,Café americano,2.5
+2661,Croissant,2.2
+2662,Café con leche,3.0
+2662,Ensalada,5.0
+2663,Café americano,2.5
+2663,Café con leche,3.0
+2664,Croissant,2.2
+2664,Tarta de queso,3.5
+2665,Té verde,2.8
+2666,Té verde,2.8
+2666,Tarta de queso,3.5
+2666,Croissant,2.2
+2667,Ensalada,5.0
+2667,Café americano,2.5
+2668,Capuchino,3.2
+2669,Capuchino,3.2
+2670,Croissant,2.2
+2670,Sándwich,4.5
+2671,Café americano,2.5
+2671,Té verde,2.8
+2672,Té verde,2.8
+2672,Tarta de queso,3.5
+2672,Croissant,2.2
+2673,Sándwich,4.5
+2673,Café americano,2.5
+2674,Té verde,2.8
+2675,Capuchino,3.2
+2675,Ensalada,5.0
+2675,Café con leche,3.0
+2676,Té verde,2.8
+2677,Tarta de queso,3.5
+2678,Café con leche,3.0
+2678,Sándwich,4.5
+2679,Ensalada,5.0
+2679,Croissant,2.2
