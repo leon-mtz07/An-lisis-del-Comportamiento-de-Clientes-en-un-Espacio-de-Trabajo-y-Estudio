@@ -132,3 +132,58 @@ conclusiones de esas tablas:
 | Té verde       | 2.8    | 272      | 12.11      | 10.01      |
 | Café americano | 2.5    | 239      | 10.64      | 7.85       |
 | Croissant      | 2.2    | 258      | 11.48      | 7.46       |
+
+Aquí ya podemos ver varias similitudes, ya que vemos que todos estos productos están en el mismo orden, la primera
+podemos ver los productos que más consumen la gente que va a estudiar, y la segunda podemos ver a los que van a
+trabajar.
+
+Esto se debe a que los productos por la cantidad en que se piden y por su precio, proporcionan una gran cantidad de
+ingresos para el café, sin embargo, esto crea cierta relación y vacío, se trataría de hacer que ciertos productos
+baratos hacerlos más rentables para el negocio, aunque no se ve tan necesario, debido a que se ve muy diversificado los
+ingresos con un promedio de 10% de ingresos del café por producto.
+
+### 3. ¿Cuál es el tiempo promedio de estancia de los distintos tipos de clientes?
+
+Se investigó detalladamente acerca del tiempo promedio de los distintos tipo de clientes, ya que esto ayudaría a crear
+menús adecuados a cada cliente, debido a que se crearían especializados para cada uno de acuerdo a sus necesidades.
+
+| Tipo de cliente | Tiempo (minutos) |
+|-----------------|------------------|
+| Individual      | 89               |
+| Pareja          | 90               |
+| Grupo           | 88               |
+
+Hay una diferencia entre cada uno de ellos de 1 minuto, no hay demasiado tiempo de desviación, y realmente sorprendieron
+los resultados, nosotros esperábamos que el individual estuviera mucho menos tiempo y que el grupo estuviera mucho más
+tiempo, pero sorprendió, ya que no hay practicamente nada de diferencia.}
+
+### 4. ¿Las ventas cambian si hay eventos como lluvias, exámenes universitarios, etc.?
+
+De igual manera, el clima afecta bastante en las ventas, uno esperaría que por ser lluvioso o nublado se antoje más un
+café, pero nuestro análisis arrojo los siguientes resultados:
+
+| Clima    | Ventas ($) |
+|----------|------------|
+| Soleado  | $ 10168.9  |
+| Nublado  | $ 6352.9   |
+| Lluvioso | $ 1543.8   |
+
+Los resultados arrojaron que el clima soleado tiene más ventas, puede ser porque a la gente local le gusta más ese
+clima, puede ser también por la región, porque puede que no llueva o se nuble tan seguido; sin embargo, hay que tener
+más atención en climas soleados porque hay mayores ventas, a diferencia de los otros climas.
+
+### 5. ¿Qué diferencias hay entre clientes individuales y grupos (reuniones)?
+
+Todos los datos son muy parecidos, lo único que cambia son los dispositivos conectados, esto es muy obvio ya que como
+más personas van al lugar, se necesitan más conectores, pero por otra diferencia, no hay otra.
+
+### 6. ¿Hay correlación entre consumo de cafeína y duración de la visita?
+
+Realmente no hay diferencia, debido a que el rango es de 3 minutos, el máximo es de 91 minutos con el Croissant, y el
+mínimo es la ensalada con 88 minutos.
+
+### 7. ¿Cuáles son los días más rentables y por qué?
+
+Aquí hay mucha diferencia debido a que el día que más ventas tiene es el martes con 7478 pesos, y el viernes es el día
+con 5108 pesos, una diferencia de 2000 pesos, eso pone como estrategia tratar de incrementar las ventas los viernes,
+ofreciendo descuentos, 2x2, etc.
